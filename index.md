@@ -31,25 +31,25 @@ I was born and raised in Changsha.
 For further information, please see my [CV](CV.pdf).
 
 ## Preprint
-_Scalable Graph Embedding Enhanced by Content-Preserving Locality Sensitive Hashing_ [[PDF](papers/aaai18.pdf)]
-**Xiusi Chen**, Xiaoyu Li, Chang Zhou, Jun Gao.
+_Scalable Graph Embedding Enhanced by Content-Preserving Locality Sensitive Hashing_ [[PDF](papers/aaai18.pdf)]    
+**Xiusi Chen**, Xiaoyu Li, Chang Zhou, Jun Gao.    
 Submitted to AAAI 2018.
 
-_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_ [[PDF](papers/icde18.pdf)]
-**Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao.
+_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_ [[PDF](papers/icde18.pdf)]    
+**Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao.    
 Submitted to ICDE 2018.
 
-_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_ [[PDF](papers/aaai18_zhou.pdf)]
-Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao.
+_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_ [[PDF](papers/aaai18_zhou.pdf)]    
+Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao.    
 Submitted to AAAI 2018.
 
 ## Publication
-_The Design and Implementation of Index on Distributed Big Graph Processing System_ [[PDF](papers/ndbc17short.pdf)] [[Full Version](papers/ndbc17.pdf)]
-**Xiusi Chen**, Qimu Zheng, Jun Gao.
+_The Design and Implementation of Index on Distributed Big Graph Processing System_ [[PDF](papers/ndbc17short.pdf)] [[Full Version](papers/ndbc17.pdf)]    
+**Xiusi Chen**, Qimu Zheng, Jun Gao.    
 [NDBC 2017](http://www.cs.zju.edu.cn/ndbc2017/index.html). Hangzhou, Zhejiang, China. (Short Paper)
 
-_Demo of a Semi-Supervised Method Based System to Detect Advertisements from QA pairs_ [[PDF](papers/ndbc16.pdf)]
-**Xiusi Chen**, Xiaoyu Li, Jun Gao.
+_Demo of a Semi-Supervised Method Based System to Detect Advertisements from QA pairs_ [[PDF](papers/ndbc16.pdf)]    
+**Xiusi Chen**, Xiaoyu Li, Jun Gao.    
 [NDBC 2016](http://csse.szu.edu.cn/ndbc2016/index.shtml). Shenzhen, Guangdong, China. (Demo Paper)
 
 ## Honors and Awards
