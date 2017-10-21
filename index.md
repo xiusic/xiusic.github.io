@@ -9,7 +9,7 @@ Office: Room 1636, Science Building #1, 5 Yiheyuan Road, Beijing, Beijing 100871
 
 2017-04-12 Our paper on Index of distributed graph data processing systems was accepted by [NDBC 2017](http://www.cs.zju.edu.cn/ndbc2017/)! See you in Hangzhou this Autumn!
 
-2017-06-30 Visiting Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/)'s Group at CS@UIUC for 6 months.
+2017-06-30 Visiting Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/)'s [TIMAN](http://sifaka.cs.uiuc.edu/ir/index.html) Group at CS@UIUC for 6 months.
 
 2017-05-23 Submitted one paper to CIKM'17.
 
