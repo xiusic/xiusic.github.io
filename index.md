@@ -20,7 +20,7 @@ Office: Room 1636, Science Building #1, 5 Yiheyuan Road, Beijing, Beijing 100871
 2017-04-12 Our paper on Semi-supervised advertisement detection was accepted by [NDBC 2016](http://csse.szu.edu.cn/ndbc2016/index.shtml)! See you in Shenzhen this Autumn!
 
 ## Bio
-I am a final-year master student at [Peking University](www.pku.edu.cn) [Graph Data Management and Analysis Group]() at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/), advised by Prof. [Jun Gao](). My research interest lies in Data Mining, including text mining and information network analysis.
+I am a final-year master student of [Graph Data Management and Analysis Group]() at [Peking University](www.pku.edu.cn), advised by Prof. [Jun Gao](). I am currently visiting [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/), advised by Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). My research interest lies in Data Mining, including text mining and information network analysis.
 
 Before graduation, I received my B.S degree in Computer Science from [Peking University](http://www.pku.edu.cn/) in 2015. During my junior and senior years, I was a research assistant at [Graph Data Management and Analysis Lab](http://0-1-2-3-all.com:5000/), supervised by Prof. [Jun Gao](http://www.cis.pku.edu.cn/faculty/system/zhangyan/). During the summer of 2014, I attended Machine Learning Summer School at [Carnegie Mellon University](http://www.cs.cmu.edu/), when I worked on machine learning projects with Prof. [Alex Smola]().
 
