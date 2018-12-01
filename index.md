@@ -1,3 +1,5 @@
+![Branching](images/IMG_1847.JPG)
+
 ## Contact
 Email: xiusichen [AT] pku [DOT] edu [DOT] cn   
 Office: 3551 Boelter Hall, UCLA, Los Angeles, California 100871    

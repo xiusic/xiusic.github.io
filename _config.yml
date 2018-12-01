@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
 title: Xiusi Chen
+description: Source code for Xiusi's personal website.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
