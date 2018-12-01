@@ -1,7 +1,8 @@
-![Branching](images/IMG_1847.JPG)
+![Octocat](images/IMG_1847.JPG)
+<!-- ![Branching](images/IMG_1847.JPG) -->
 
 ## Contact
-Email: xiusichen [AT] pku [DOT] edu [DOT] cn   
+Email: xchen [AT] cs [DOT] ucla [DOT] edu    
 Office: 3551 Boelter Hall, UCLA, Los Angeles, California 100871    
 
 ## What's New
@@ -55,12 +56,12 @@ Submitted.
 
 ## Publication
 _Doc2Cube: Allocating Documents to Text Cube without Labeled Data_ [[PDF](http://chaozhang.org/papers/icdm18.pdf)]    
-Fangbo Tao, Chang Zhang, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han
+Fangbo Tao, Chang Zhang, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han.    
 [ICDM 2018](http://icdm2018.org/). Singapore.
 
 
 _TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_ [[PDF](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)]    
-Chang Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han.
+Chang Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han.    
 [KDD 2018](https://www.kdd.org/kdd2018/). London, United Kingdom.
 
 _ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_ [[PDF](papers/aaai18_zhou.pdf)]    
