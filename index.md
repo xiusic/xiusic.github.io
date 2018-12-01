@@ -3,7 +3,7 @@
 
 ## Contact
 Email: xchen [AT] cs [DOT] ucla [DOT] edu    
-Office: 3551 Boelter Hall, UCLA, Los Angeles, California 100871    
+Office: 3551 Boelter Hall, UCLA, Los Angeles, California 90066    
 
 ## What's New
 2018-09-10 Start my Ph.D. journey @ UCLA!
@@ -33,11 +33,11 @@ Office: 3551 Boelter Hall, UCLA, Los Angeles, California 100871
 2014-10-26 I am honor to compete on behalf of Peking University at the 17th Chinese University Basketball Association (CUBA) Championships, Beijing Division. We are the 3rd Place!
 
 ## Bio
-I am currently a first-year Ph.D. student working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/) at University of California, Los Angeles. I was a master student of [Graph Data Management and Analysis Group]() at [Peking University](www.pku.edu.cn), advised by Prof. [Jun Gao](). I am currently visiting [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/), advised by Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). My research interest lies in Data Mining, including text mining and information network analysis.
+I am currently a first-year Ph.D. student working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Department of Computer Science](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). 
 
-Before graduation, I received my B.S degree in Computer Science from [Peking University](http://www.pku.edu.cn/) in 2015. During my junior and senior years, I was a research assistant at [Graph Data Management and Analysis Lab](http://0-1-2-3-all.com:5000/), supervised by Prof. [Jun Gao](http://www.cis.pku.edu.cn/faculty/system/zhangyan/). During the summer of 2014, I attended Machine Learning Summer School at [Carnegie Mellon University](http://www.cs.cmu.edu/), when I worked on machine learning projects with Prof. [Alex Smola]().
+Before I started the Ph.D, I was a master student of [Graph Data Management and Analysis Group]() at [Peking University](www.pku.edu.cn), advised by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817). I am currently visiting [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/), advised by Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). My research interest lies in Data Mining, including text mining and information network analysis. I got my B.S degree in Computer Science from [Peking University](http://www.pku.edu.cn/) in 2015. During my junior and senior years, I was a research assistant at [Graph Data Management and Analysis Lab](http://0-1-2-3-all.com:5000/), supervised by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817).
 
-In 2015 Fall and 2016 Spring, I also worked as a teaching assistant for two courses: _Introduction to Database Systems(Honor Track)_ and _Database Systems Principles and Technologies_ instructed by Prof. [Jun Gao]().
+In 2015 Fall and 2016 Spring, I also worked as a teaching assistant for two courses: _Introduction to Database Systems(Honor Track)_ and _Database Systems Principles and Technologies_ instructed by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817).
 
 I was born and raised in Changsha.
 
