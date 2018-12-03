@@ -84,3 +84,12 @@ _Demo of a Semi-Supervised Method Based System to Detect Advertisements from QA 
 **2016**  3rd Prize of 15th Peking University ACM Programming Contest, _Peking University_    
 **2014**  3rd Place of 17th Chinese University Basketball Association (CUBA) Championships, Beijing Division, _Federation of University Sports of China_   
 **2010**  6th Place of the Middle School Students Swimming Contest of Hunan Province, 100M Breaststroke, _The Education Department of Hunan Province_    
+
+## Links
+[Google Scholar](https://scholar.google.ca/citations?user=JqGAil4AAAAJ&hl=en)    
+[DBLP](http://dblp.org/pers/hd/c/Chen:Xiusi)
+[Facebook](https://www.facebook.com/xiusi.chen)
+[Twitter](https://twitter.com/XtremSup)
+
+
+
