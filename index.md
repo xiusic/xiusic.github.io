@@ -33,9 +33,9 @@ Office: 3551 Boelter Hall, UCLA, Los Angeles, California 90066
 2014-10-26 I am honor to compete on behalf of Peking University at the 17th Chinese University Basketball Association (CUBA) Championships, Beijing Division. We are the 3rd Place!
 
 ## Bio
-I am currently a first-year Ph.D. student working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Department of Computer Science](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). 
+I am currently a first-year Ph.D. student working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Department of Computer Science](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests lie in Data Mining, including text mining and information network analysis.
 
-Before I started the Ph.D, I was a master student of [Graph Data Management and Analysis Group]() at [Peking University](www.pku.edu.cn), advised by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817). I am currently visiting [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/), advised by Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). My research interest lies in Data Mining, including text mining and information network analysis. I got my B.S degree in Computer Science from [Peking University](http://www.pku.edu.cn/) in 2015. During my junior and senior years, I was a research assistant at [Graph Data Management and Analysis Lab](http://0-1-2-3-all.com:5000/), supervised by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817).
+Before I started to pursue Ph.D., I was a master student of [Graph Data Management and Analysis Group]() at [Peking University](www.pku.edu.cn), advised by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817). I spent 6 months visiting [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, advised by Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/). I got my B.S degree in Computer Science from [Peking University](http://www.pku.edu.cn/) in 2015.
 
 In 2015 Fall and 2016 Spring, I also worked as a teaching assistant for two courses: _Introduction to Database Systems(Honor Track)_ and _Database Systems Principles and Technologies_ instructed by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817).
 
@@ -55,20 +55,20 @@ Submitted.
 
 
 ## Publication
-_Doc2Cube: Allocating Documents to Text Cube without Labeled Data_ [[PDF](http://chaozhang.org/papers/icdm18.pdf)]    
+_Doc2Cube: Allocating Documents to Text Cube without Labeled Data_ [[PDF](http://chaozhang.org/papers/icdm18.pdf)]  [[code](https://github.com/fangbo-tao/doc2cube)]    
 Fangbo Tao, Chang Zhang, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han.    
 [ICDM 2018](http://icdm2018.org/). Singapore.
 
 
-_TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_ [[PDF](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)]    
+_TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_ [[PDF](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)]  [[code](https://github.com/franticnerd/taxogen)]    
 Chang Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han.    
 [KDD 2018](https://www.kdd.org/kdd2018/). London, United Kingdom.
 
-_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_ [[PDF](papers/aaai18_zhou.pdf)]    
+_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_ [[PDF](papers/aaai18_zhou.pdf)]  [[code](https://github.com/jinze1994/ATRank)]    
 Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao.    
 [AAAI 2018](https://aaai.org/Conferences/AAAI-18/). New Orleans, Louisiana, USA.
 
-_The Design and Implementation of Index on Distributed Big Graph Processing System_ [[PDF](papers/ndbc17short.pdf)] [[Full Version](papers/ndbc17.pdf)]    
+_The Design and Implementation of Index on Distributed Big Graph Processing System_ [[PDF](papers/ndbc17short.pdf)]  [[Full Version](papers/ndbc17.pdf)]    
 **Xiusi Chen**, Qimu Zheng, Jun Gao.    
 [NDBC 2017](http://www.cs.zju.edu.cn/ndbc2017/index.html). Hangzhou, Zhejiang, China. (Short Paper)
 
