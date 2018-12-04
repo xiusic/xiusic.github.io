@@ -3,7 +3,7 @@
 
 ## Contact
 Email: xchen [AT] cs [DOT] ucla [DOT] edu    
-Office: 3551 Boelter Hall, UCLA, Los Angeles, California 90066    
+Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90066    
 
 ## What's New
 2018-09-10 Start my Ph.D. journey @ UCLA!
@@ -56,12 +56,12 @@ Submitted.
 
 ## Publication
 _Doc2Cube: Allocating Documents to Text Cube without Labeled Data_ [[PDF](http://chaozhang.org/papers/icdm18.pdf)]  [[code](https://github.com/fangbo-tao/doc2cube)]    
-Fangbo Tao, Chang Zhang, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han.    
+Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han.    
 [ICDM 2018](http://icdm2018.org/). Singapore.
 
 
 _TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_ [[PDF](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)]  [[code](https://github.com/franticnerd/taxogen)]    
-Chang Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han.    
+Chao Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han.    
 [KDD 2018](https://www.kdd.org/kdd2018/). London, United Kingdom.
 
 _ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_ [[PDF](papers/aaai18_zhou.pdf)]  [[code](https://github.com/jinze1994/ATRank)]    
@@ -84,6 +84,11 @@ _Demo of a Semi-Supervised Method Based System to Detect Advertisements from QA 
 **2016**  3rd Prize of 15th Peking University ACM Programming Contest, _Peking University_    
 **2014**  3rd Place of 17th Chinese University Basketball Association (CUBA) Championships, Beijing Division, _Federation of University Sports of China_   
 **2010**  6th Place of the Middle School Students Swimming Contest of Hunan Province, 100M Breaststroke, _The Education Department of Hunan Province_    
+
+## Miscellaneous
+
+*   I played for Peking University Men's Basketball varsity prep team.
+*   I was a registered swimming athlete in China during high school.
 
 ## Links
 [Google Scholar](https://scholar.google.ca/citations?user=JqGAil4AAAAJ&hl=en)    
