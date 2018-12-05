@@ -1,8 +1,6 @@
-![Octocat](images/IMG_1847.JPG)
 <p align="center">
   <img src="images/IMG_1847.JPG" alt="Portrait"/>
 </p>
-<!-- ![Branching](images/IMG_1847.JPG) -->
 
 ## Contact
 Email: xchen [AT] cs [DOT] ucla [DOT] edu    
