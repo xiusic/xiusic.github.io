@@ -66,57 +66,63 @@ _ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professiona
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 CIKM 2022
 
-_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_    
+[_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_](https://arxiv.org/pdf/2111.04022.pdf)    
 Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
 WSDM 2022
 
-_COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining_    
+[_COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining_](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
 Jyun-Yu Jiang, Yichao Zhou, **Xiusi Chen**, Yan-Ru Jhou, Liqi Zhao, Sabrina Liu, Po-Chun Yang, Jule Ahmar, Wei Wang    
 Philosophical Transactions A, 2022
 
-_\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs_    
+[_\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs_](https://dl.acm.org/doi/pdf/10.1145/3459637.3482222)    
 Yichao Zhou, Jyun-Yu Jiang, **Xiusi Chen** and Wei Wang    
 CIKM 2021
 
-_ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting_    
+[_ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting_](https://dl.acm.org/doi/10.1145/3447548.3467330)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 KDD 2021
 
-_Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning_    
+[_Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning_](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
 Seungbae Kim, **Xiusi Chen**, Jyun-Yu Jiang, Jinyoung Han, and Wei Wang    
 ICWSM 2021
 
-_The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting_    
+[_The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting_](https://dl.acm.org/doi/10.1145/3450528)    
 Jinliang Deng, **Xiusi Chen**, Zipei Fan, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 TKDD 2021
 
-_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_    
+[_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_](https://arxiv.org/pdf/2010.13556)    
 Yu Zhang, **Xiusi Chen**, Yu Meng, Jiawei Han    
 WSDM 2021
 
-_Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks_    
+[_Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks_](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
 Ruirui Li, Xian Wu, **Xiusi Chen**, Wei Wang    
 WWW 2020
 
-_Doc2Cube: Allocating Documents to Text Cube without Labeled Data_ [[PDF](http://chaozhang.org/papers/icdm18.pdf)]  [[code](https://github.com/fangbo-tao/doc2cube)]    
+[_Doc2Cube: Allocating Documents to Text Cube without Labeled Data_](http://chaozhang.org/papers/icdm18.pdf)    
 Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han    
 ICDM 2018
 
-_TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_ [[PDF](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)]  [[code](https://github.com/franticnerd/taxogen)]    
+[_TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)    
 Chao Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han     
 KDD 2018
 
-_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_ [[PDF](papers/aaai18_zhou.pdf)]  [[code](https://github.com/jinze1994/ATRank)]    
+[_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_](papers/aaai18_zhou.pdf) [[PDF](papers/aaai18_zhou.pdf)]  [[code](https://github.com/jinze1994/ATRank)]    
 Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao    
 AAAI 2018
 
-_The Design and Implementation of Index on Distributed Big Graph Processing System_ [[PDF](papers/ndbc17short.pdf)]  [[Full Version](papers/ndbc17.pdf)]    
+[_The Design and Implementation of Index on Distributed Big Graph Processing System_](papers/ndbc17short.pdf)    
 **Xiusi Chen**, Qimu Zheng, Jun Gao    
 NDBC 2017
 
-_Demo of a Semi-Supervised Method Based System to Detect Advertisements from QA pairs_ [[PDF](papers/ndbc16.pdf)]    
+[_Demo of a Semi-Supervised Method Based System to Detect Advertisements from QA pairs_](papers/ndbc16.pdf)    
 **Xiusi Chen**, Xiaoyu Li, Jun Gao    
 NDBC 2016
+
+
+## Patent
+_Knowledge graph and alignment with uncertainty embedding_    
+Wenchao Yu, Bo Zong, Wei Cheng, Haifeng Chen, **Xiusi Chen**    
+US Patent App. 17/060,850
 
 
 ## Academic Service
