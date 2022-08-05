@@ -126,9 +126,9 @@ US Patent App. 17/060,850
 
 ## Academic Service
 **Conference Program Committee**        
-KDD’2020,2022; WSDM’2022-2023; SSL@WWW’2021;    
-NeurIPS’2022; ICLR’2022; AAAI’2021-2023; IJCAI-ECAI’2022;    
-ACL’2022    
+KDD 2020,2022; WSDM 2022-2023; SSL@WWW 2021;    
+NeurIPS 2022; ICLR 2022; AAAI 2021-2023; IJCAI-ECAI 2022;    
+ACL Rolling Review    
 
 **Conference Subreviewer**    
 KDD'2018, CIKM'2018, WISE'2018, IJCAI'2019
