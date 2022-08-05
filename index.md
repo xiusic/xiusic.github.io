@@ -1,6 +1,5 @@
-<p align="center">
-  [<img src="images/IMG_1847.JPG" alt="Portrait"/>](https://sites.google.com/site/ruihanwu14/)
-</p>
+
+[<img src="images/IMG_1847.JPG" alt="Portrait"/>](https://sites.google.com/site/ruihanwu14/)
 
 ## Contact
 Email: xchen [AT] cs [DOT] ucla [DOT] edu    
