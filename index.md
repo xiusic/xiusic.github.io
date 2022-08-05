@@ -69,7 +69,7 @@ _ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professiona
 [CIKM 2022]
 
 _MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_    
-Yu Zhang$\*, Shweta Garg$\*, Yu Meng, \textbf{Xiusi Chen} and Jiawei Han    
+Yu Zhang$\*, Shweta Garg$\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
 [WSDM 2022]
 
 _COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining_    
@@ -150,9 +150,9 @@ IEEE Transactions on Big Data (TBD).
 
 ## Links
 [Google Scholar](https://scholar.google.ca/citations?user=JqGAil4AAAAJ)    
-[DBLP](https://dblp.org/pid/210/1049) 
-[Facebook](https://www.facebook.com/xiusi.chen)
-[Twitter](https://twitter.com/XtremSup)
+[DBLP](https://dblp.org/pid/210/1049)    
+[Facebook](https://www.facebook.com/xiusi.chen)    
+[Twitter](https://twitter.com/XtremSup)    
 
 
 
