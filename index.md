@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sites.google.com/site/ruihanwu14/">
+  <a href="https://sites.google.com/site/ruihanwu14/"/>
   <img src="images/IMG_1847.JPG" alt="Portrait"/>
 </p>
 
