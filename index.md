@@ -38,6 +38,8 @@ I am currently a fourth-year Ph.D. candidate working with [Prof. Wei Wang](http:
 
 Before I started to pursue Ph.D., I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). During my master's, I was a member of [Graph Data Management and Analysis Group]() directed by Prof. [Jun Gao](http://eecs.pku.edu.cn/teaching/inservice/search/Detail/?ID=1817). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
 
+I played for Peking University Men's Basketball Varsity Team, Division II during college.
+
 I was born and raised in Changsha.
 
 For further information, please see my [CV](CV.pdf).
