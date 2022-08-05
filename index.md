@@ -52,9 +52,8 @@ Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang
 _Multi-variate Time Series Forecasting with Spatial-temporal Decomposition_    
 Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan Song, Ivor W. Tsang    
 
-_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_ [[PDF](papers/icde18.pdf)]    
-**Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao.    
-Submitted.
+[_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
+**Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
 
 
 ## Publication
@@ -120,7 +119,7 @@ NDBC 2016
 
 
 ## Patent
-_Knowledge graph and alignment with uncertainty embedding_    
+[_Knowledge graph and alignment with uncertainty embedding_](https://patentimages.storage.googleapis.com/bb/ae/b3/bdfd4a1c6a8528/US20210103706A1.pdf)    
 Wenchao Yu, Bo Zong, Wei Cheng, Haifeng Chen, **Xiusi Chen**    
 US Patent App. 17/060,850
 
