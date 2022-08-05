@@ -155,7 +155,7 @@ IEEE Transactions on Big Data (TBD).
 
 ## Links
 [❤️](https://sites.google.com/site/ruihanwu14/)    
-[Google Scholar](https://scholar.google.ca/citations?user=JqGAil4AAAAJ)    
+[Google Scholar](https://scholar.google.com/citations?user=JqGAil4AAAAJ)    
 [DBLP](https://dblp.org/pid/210/1049)    
 [Facebook](https://www.facebook.com/xiusi.chen)    
 [Twitter](https://twitter.com/XtremSup)    
