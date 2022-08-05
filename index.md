@@ -131,7 +131,7 @@ NeurIPS 2022; ICLR 2022; AAAI 2021-2023; IJCAI-ECAI 2022;
 ACL Rolling Review    
 
 **Conference Subreviewer**    
-KDD'2018, CIKM'2018, WISE'2018, IJCAI'2019
+KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019
 
 **Journal Reviewer**    
 IEEE Transactions on Big Data (TBD).
