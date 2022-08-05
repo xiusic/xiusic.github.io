@@ -147,7 +147,7 @@ IEEE Transactions on Big Data (TBD).
 *   I was a registered swimming athlete in China during high school.
 
 ## Links
-[:heart:](https://sites.google.com/site/ruihanwu14/)    
+[❤️](https://sites.google.com/site/ruihanwu14/)    
 [Google Scholar](https://scholar.google.ca/citations?user=JqGAil4AAAAJ)    
 [DBLP](https://dblp.org/pid/210/1049)    
 [Facebook](https://www.facebook.com/xiusi.chen)    
