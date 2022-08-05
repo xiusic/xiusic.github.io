@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://sites.google.com/site/ruihanwu14/"/>
   <img src="images/IMG_1847.JPG" alt="Portrait"/>
-</a></p>
+</a/></p>
 
 ## Contact
 Email: xchen [AT] cs [DOT] ucla [DOT] edu    
@@ -149,7 +149,7 @@ IEEE Transactions on Big Data (TBD).
 *   I was a registered swimming athlete in China during high school.
 
 ## Links
-[My :heart:](https://sites.google.com/site/ruihanwu14/)    
+[My :heart:] (https://sites.google.com/site/ruihanwu14/)    
 [Google Scholar](https://scholar.google.ca/citations?user=JqGAil4AAAAJ)    
 [DBLP](https://dblp.org/pid/210/1049)    
 [Facebook](https://www.facebook.com/xiusi.chen)    
