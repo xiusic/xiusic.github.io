@@ -127,14 +127,14 @@ KDD’2020,2022; WSDM’2022-2023; SSL@WWW’2021;
 NeurIPS’2022; ICLR’2022; AAAI’2021-2023; IJCAI-ECAI’2022;
 ACL’2022
 
-**Conference Subreviewer**
+**Conference Subreviewer**    
 KDD'2018, CIKM'2018, WISE'2018, IJCAI'2019
 
-**Journal Reviewer**
+**Journal Reviewer**    
 IEEE Transactions on Big Data (TBD).
 
 ## Honors and Awards
-**2021**  SIGIR Student Travel Grant, _ACM SIGIR_
+**2021**  SIGIR Student Travel Grant, _ACM SIGIR_    
 **2016, 2017**  Graduate Student Acedemic Scholarship, _Peking University_     
 **2016**  Leo KoGuan Scholarshop, _Peking University_    
 **2016**  Merit Student, _Peking University_     
