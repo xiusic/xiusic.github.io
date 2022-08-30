@@ -139,7 +139,7 @@ KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019
 IEEE Transactions on Big Data (TBD).
 
 ## Honors and Awards
-**2021**  SIGIR Student Travel Grant, _ACM SIGIR_    
+**2021, 2022**  SIGIR Student Travel Grant, _ACM SIGIR_    
 **2016, 2017**  Graduate Student Acedemic Scholarship, _Peking University_     
 **2016**  Leo KoGuan Scholarshop, _Peking University_    
 **2016**  Merit Student, _Peking University_     
