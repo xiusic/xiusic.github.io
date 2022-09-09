@@ -46,10 +46,7 @@ For further information, please see my [CV](CV.pdf).
 
 ## Preprint
 _Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_    
-**Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang    
-
-_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting_    
-Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang    
+**Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang     
 
 _Multi-variate Time Series Forecasting with Spatial-temporal Decomposition_    
 Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan Song, Ivor W. Tsang    
@@ -66,6 +63,10 @@ CIKM 2022
 _ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games_    
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 CIKM 2022
+
+[_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting_    ](https://arxiv.org/pdf/2109.01657.pdf)
+Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
+TKDE 2022
 
 [_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_](https://arxiv.org/pdf/2111.04022.pdf)    
 Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
