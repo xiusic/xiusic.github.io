@@ -56,15 +56,15 @@ Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan S
 
 
 ## Publication
-_Scalable Graph Representation Learning via Locality-Sensitive Hashing_    
+[_Scalable Graph Representation Learning via Locality-Sensitive Hashing_](papers/_CIKM_22_CR__Scalable_Graph_Representation_Learning_via_Locality_Sensitive_Hashing.pdf)   
 **Xiusi Chen**, Jyun-Yu Jiang and Wei Wang    
 CIKM 2022
 
-_ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games_    
+[_ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games_](papers/_CIKM_22_CR__ReLiable__Offline_Reinforcement_Learning_for_Tactical_Strategies_in_Professional_Basketball_Games.pdf)       
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 CIKM 2022
 
-[_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting_    ](https://arxiv.org/pdf/2109.01657.pdf)
+[_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting ](https://arxiv.org/pdf/2109.01657.pdf)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
 TKDE 2022
 
