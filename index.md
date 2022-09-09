@@ -64,7 +64,7 @@ CIKM 2022
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 CIKM 2022
 
-[_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting ](https://arxiv.org/pdf/2109.01657.pdf)    
+[_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting_](https://arxiv.org/pdf/2109.01657.pdf)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
 TKDE 2022
 
