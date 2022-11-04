@@ -48,6 +48,9 @@ For further information, please see my [CV](CV.pdf).
 _Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang     
 
+_Graph-based Minimum Pre-training Data Generation for Few-shot Question Answering_    
+**Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
+
 _Multi-variate Time Series Forecasting with Spatial-temporal Decomposition_    
 Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan Song, Ivor W. Tsang    
 
