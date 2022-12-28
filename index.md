@@ -44,10 +44,7 @@ I was born and raised in Changsha.
 
 For further information, please see my [CV](CV.pdf).
 
-## Preprint
-_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_    
-**Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang     
-
+## Preprint   
 _Graph-based Minimum Pre-training Data Generation for Few-shot Question Answering_    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
 
@@ -59,6 +56,10 @@ Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan S
 
 
 ## Publication
+[_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](papers/gotta.pdf)    
+**Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
+SDM 2023
+
 [_Scalable Graph Representation Learning via Locality-Sensitive Hashing_](papers/cikm_b.pdf)   
 **Xiusi Chen**, Jyun-Yu Jiang and Wei Wang    
 CIKM 2022
@@ -132,8 +133,8 @@ US Patent App. 17/060,850
 
 ## Academic Service
 **Conference Program Committee**        
-KDD 2020,2022; WSDM 2022-2023; SSL@WWW 2021;    
-NeurIPS 2022; ICLR 2022; AAAI 2021-2023; IJCAI-ECAI 2022;    
+KDD 2020,2022,2023; WSDM 2022-2023; SSL@WWW 2021;    
+NeurIPS 2022; ICLR 2022; AAAI 2021-2023; IJCAI-ECAI 2022,2023;    
 ACL Rolling Review    
 
 **Conference Subreviewer**    
