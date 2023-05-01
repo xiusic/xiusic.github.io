@@ -58,7 +58,8 @@ Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan S
 ## Publication
 [_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](papers/gotta.pdf)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
-SDM 2023
+SDM 2023     
+<span style="color:red">Best Poster Award (Honorable Mention)</span>
 
 [_Scalable Graph Representation Learning via Locality-Sensitive Hashing_](papers/cikm_b.pdf)   
 **Xiusi Chen**, Jyun-Yu Jiang and Wei Wang    
@@ -133,8 +134,8 @@ US Patent App. 17/060,850
 
 ## Academic Service
 **Conference Program Committee**        
-KDD 2020,2022,2023; WSDM 2022-2023; SSL@WWW 2021;    
-ICML 2023; NeurIPS 2022; ICLR 2022; AAAI 2021-2023; IJCAI-ECAI 2022,2023;    
+KDD 2020-2023; WSDM 2022-2023; SSL@WWW 2021;    
+ICML 2023; NeurIPS 2022-2023; ICLR 2022; AAAI 2021-2023; IJCAI-ECAI 2022-2023;    
 ACL Rolling Review    
 
 **Conference Subreviewer**    
@@ -144,6 +145,7 @@ KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019
 IEEE Transactions on Big Data (TBD).
 
 ## Honors and Awards
+**2023**  SIAM Student Travel Award, _SIAM_   
 **2021, 2022**  SIGIR Student Travel Grant, _ACM SIGIR_    
 **2016, 2017**  Graduate Student Acedemic Scholarship, _Peking University_     
 **2016**  Leo KoGuan Scholarshop, _Peking University_    
