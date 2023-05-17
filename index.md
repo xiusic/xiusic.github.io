@@ -71,6 +71,7 @@ CIKM 2022
 
 [_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_]()       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
+KDD 2023
 
 [_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting_](https://arxiv.org/pdf/2109.01657.pdf)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
