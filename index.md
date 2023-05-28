@@ -56,7 +56,7 @@ Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan S
 
 
 ## Publication
-[_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](papers/gotta.pdf)    
+[_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
 SDM 2023     
 <span style="color:red">Best Poster Award (Honorable Mention)</span>
