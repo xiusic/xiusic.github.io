@@ -34,7 +34,7 @@ Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90066
  -->
 
 ## Bio
-I am currently a fourth-year Ph.D. candidate working with Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Department of Computer Science](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests lie in data mining, natural language processing and reinforcement learning applications, especially graph mining, question answering and sports RL.
+I am currently a final-year Ph.D. candidate working with Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Department of Computer Science](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests lie in data mining, natural language processing and reinforcement learning applications, especially graph mining, question answering and sports RL.
 
 Before I started pursuing Ph.D., I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was a member of [Graph Data Management and Analysis Group]() directed by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1082/1294.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
 
@@ -45,8 +45,11 @@ I was born and raised in Changsha.
 For further information, please see my [CV](CV.pdf).
 
 ## Preprint   
-_Graph-based Minimum Pre-training Data Generation for Few-shot Question Answering_    
+[_Graph-based Minimum Pre-training Data Generation for Few-shot Question Answering_](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
+
+[_Professional Basketball Player Behavior Synthesis via Planning with Diffusion_](https://arxiv.org/pdf/2306.04090.pdf)    
+**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, Curtis Chou, Lam Hoang, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
 
 _Multi-variate Time Series Forecasting with Spatial-temporal Decomposition_    
 Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan Song, Ivor W. Tsang    
@@ -138,8 +141,8 @@ US Patent App. 17/060,850
 
 ## Academic Service
 **Conference Program Committee**        
-KDD 2020-2023; WSDM 2022-2023; SSL@WWW 2021;    
-ICML 2023; NeurIPS 2022-2023; ICLR 2022; AAAI 2021-2023; IJCAI-ECAI 2022-2023;    
+KDD 2020-2023; WSDM 2022-2024; SSL@WWW 2021;    
+ICML 2023; NeurIPS 2022-2023; ICLR 2022-2024; AAAI 2021-2024; IJCAI-ECAI 2022-2023;    
 ACL Rolling Review    
 
 **Conference Subreviewer**    
@@ -149,15 +152,13 @@ KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019
 IEEE Transactions on Big Data (TBD).
 
 ## Honors and Awards
+**2023**  Best Poster Award (Honorable Mention), _SDM 2023_
 **2023**  SIAM Student Travel Award, _SIAM_   
 **2021, 2022**  SIGIR Student Travel Grant, _ACM SIGIR_    
 **2016, 2017**  Graduate Student Acedemic Scholarship, _Peking University_     
 **2016**  Leo KoGuan Scholarshop, _Peking University_    
 **2016**  Merit Student, _Peking University_     
-**2016**  2nd Place of National Database Conference (NDBC) Cup 2016, _China Computer Federation_    
-**2016**  3rd Prize of 15th Peking University ACM Programming Contest, _Peking University_    
 **2014**  3rd Place of 17th Chinese University Basketball Association (CUBA) Championships, Beijing Division, _Federation of University Sports of China_   
-**2010**  6th Place of the Middle School Students Swimming Contest of Hunan Province, 100M Breaststroke, _The Education Department of Hunan Province_    
 
 ## Miscellaneous
 
