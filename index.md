@@ -51,16 +51,16 @@ For further information, please see my [CV](CV.pdf).
 [_Professional Basketball Player Behavior Synthesis via Planning with Diffusion_](https://arxiv.org/pdf/2306.04090.pdf)    
 **Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, Curtis Chou, Lam Hoang, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
 
-[_TinyLLM: Learning a Small Student from Multiple Large Language Models_](https://arxiv.org/pdf/2402.04616.pdf)
-Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla
+[_TinyLLM: Learning a Small Student from Multiple Large Language Models_](https://arxiv.org/pdf/2402.04616.pdf)    
+Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
 
 [_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
 **Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
 
 
 ## Publication
-[_IterAlign: Iterative Constitutional Alignment of Large Language Models_]()
-**Xiusi Chen**, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang
+[_IterAlign: Iterative Constitutional Alignment of Large Language Models_]()    
+**Xiusi Chen**, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang    
 NAACL'24     
 
 [_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
@@ -80,12 +80,12 @@ CIKM 2022
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
 TKDE 2024
 
-[_How the Experience of California Wildfires Shapes Twitter Climate Change Framings_](https://link.springer.com/article/10.1007/s10584-023-03668-0)
-Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer
+[_How the Experience of California Wildfires Shapes Twitter Climate Change Framings_](https://link.springer.com/article/10.1007/s10584-023-03668-0)    
+Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
 Climatic Change, 2024
 
-[_Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly_]()
-Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li
+[_Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly_]()    
+Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
 DataPlat@ICDE 2024
 
 [_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_](https://arxiv.org/pdf/2306.14003.pdf)       
