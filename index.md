@@ -45,20 +45,24 @@ I was born and raised in Changsha.
 For further information, please see my [CV](CV.pdf).
 
 ## Preprint   
-[_Graph-based Minimum Pre-training Data Generation for Few-shot Question Answering_](https://arxiv.org/pdf/2310.05007.pdf)    
+[_MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering_](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
 
 [_Professional Basketball Player Behavior Synthesis via Planning with Diffusion_](https://arxiv.org/pdf/2306.04090.pdf)    
 **Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, Curtis Chou, Lam Hoang, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
 
-_Multi-variate Time Series Forecasting with Spatial-temporal Decomposition_    
-Jinliang Deng, Du Yin, Yi Yang, **Xiusi Chen**, Jiewen Deng, Renhe Jiang, Xuan Song, Ivor W. Tsang    
+[_TinyLLM: Learning a Small Student from Multiple Large Language Models_](https://arxiv.org/pdf/2402.04616.pdf)
+Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla
 
 [_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
 **Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
 
 
 ## Publication
+[_IterAlign: Iterative Constitutional Alignment of Large Language Models_]()
+**Xiusi Chen**, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang
+NAACL'24     
+
 [_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
 SDM 2023     
@@ -72,7 +76,19 @@ CIKM 2022
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 CIKM 2022
 
-[_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_]()       
+[_Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting_](https://ieeexplore.ieee.org/abstract/document/10457027)    
+Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
+TKDE 2024
+
+[_How the Experience of California Wildfires Shapes Twitter Climate Change Framings_](https://link.springer.com/article/10.1007/s10584-023-03668-0)
+Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer
+Climatic Change, 2024
+
+[_Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly_]()
+Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li
+DataPlat@ICDE 2024
+
+[_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_](https://arxiv.org/pdf/2306.14003.pdf)       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
 KDD 2023
 
@@ -152,7 +168,7 @@ KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019
 IEEE Transactions on Big Data (TBD).
 
 ## Honors and Awards
-**2023**  Best Poster Award (Honorable Mention), _SDM 2023_
+**2023**  Best Poster Award (Honorable Mention), _SDM 2023_   
 **2023**  SIAM Student Travel Award, _SIAM_   
 **2021, 2022**  SIGIR Student Travel Grant, _ACM SIGIR_    
 **2016, 2017**  Graduate Student Acedemic Scholarship, _Peking University_     
