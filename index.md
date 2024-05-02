@@ -76,11 +76,11 @@ CIKM 2022
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 CIKM 2022
 
-[_MEMORYLLM: Toward Self-Updating Large Language Models_](https://arxiv.org/pdf/2310.07815)    
+[_MEMORYLLM: Toward Self-Updating Large Language Models_](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
 ICML 2024
 
-[_Language Models as Semantic Indexers_](https://arxiv.org/pdf/2402.04624)    
+[_Language Models as Semantic Indexers_](https://arxiv.org/pdf/2310.07815)    
 Bowen Jin, Hansi Zeng, Guoyin Wang, **Xiusi Chen**, Tianxin Wei, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang    
 ICML 2024
 
