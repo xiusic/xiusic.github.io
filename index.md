@@ -47,6 +47,7 @@ For further information, please see my [CV](CV.pdf).
 ## Preprint   
 [_MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering_](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
+[\[code\]](https://github.com/xiusic/MinPrompt)
 
 [_Professional Basketball Player Behavior Synthesis via Planning with Diffusion_](https://arxiv.org/pdf/2306.04090.pdf)    
 **Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, Curtis Chou, Lam Hoang, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
@@ -62,10 +63,12 @@ Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla
 [_IterAlign: Iterative Constitutional Alignment of Large Language Models_](https://arxiv.org/pdf/2403.18341.pdf)    
 **Xiusi Chen**, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang    
 NAACL 2024     
+[\[code\]](https://github.com/xiusic/IterAlign)
 
 [_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
 SDM 2023     
+[\[code\]](https://github.com/xiusic/Gotta)     
 <span style="color:red">Best Poster Award (Honorable Mention)</span>
 
 [_Scalable Graph Representation Learning via Locality-Sensitive Hashing_](papers/cikm_b.pdf)   
