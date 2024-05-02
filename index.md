@@ -61,7 +61,7 @@ Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla
 ## Publication
 [_IterAlign: Iterative Constitutional Alignment of Large Language Models_](https://arxiv.org/pdf/2403.18341.pdf)    
 **Xiusi Chen**, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang    
-NAACL'24     
+NAACL 2024     
 
 [_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
@@ -75,6 +75,14 @@ CIKM 2022
 [_ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games_](papers/cikm_a.pdf)       
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 CIKM 2022
+
+[_MEMORYLLM: Toward Self-Updating Large Language Models_](https://arxiv.org/pdf/2310.07815)    
+Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
+ICML 2024
+
+[_Language Models as Semantic Indexers_](https://arxiv.org/pdf/2402.04624)    
+Bowen Jin, Hansi Zeng, Guoyin Wang, **Xiusi Chen**, Tianxin Wei, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang    
+ICML 2024
 
 [_Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting_](https://ieeexplore.ieee.org/abstract/document/10457027)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
