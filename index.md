@@ -51,6 +51,7 @@ For further information, please see my [CV](CV.pdf).
 
 [_Professional Basketball Player Behavior Synthesis via Planning with Diffusion_](https://arxiv.org/pdf/2306.04090.pdf)    
 **Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, Curtis Chou, Lam Hoang, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
+[\[code\]](https://github.com/xiusic/diffuser_bball)
 
 [_TinyLLM: Learning a Small Student from Multiple Large Language Models_](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
