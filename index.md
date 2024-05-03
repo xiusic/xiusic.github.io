@@ -161,15 +161,8 @@ KDD 2018
 Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao    
 AAAI 2018    
 \[[code](https://github.com/jinze1994/ATRank)\]
-<!--
-[_The Design and Implementation of Index on Distributed Big Graph Processing System_](papers/ndbc17short.pdf)    
-**Xiusi Chen**, Qimu Zheng, Jun Gao    
-NDBC 2017
 
-[_Demo of a Semi-Supervised Method Based System to Detect Advertisements from QA pairs_](papers/ndbc16.pdf)    
-**Xiusi Chen**, Xiaoyu Li, Jun Gao    
-NDBC 2016
--->
+
 
 ## Patent
 [_Knowledge graph and alignment with uncertainty embedding_](https://patentimages.storage.googleapis.com/bb/ae/b3/bdfd4a1c6a8528/US20210103706A1.pdf)    
@@ -179,7 +172,7 @@ US Patent App. 17/060,850
 
 ## Academic Service
 **Conference Program Committee**        
-KDD 2020-2023; WSDM 2022-2024; SSL@WWW 2021;    
+KDD 2020-2024; WSDM 2022-2024; SSL@WWW 2021;    
 ICML 2023-2024; NeurIPS 2022-2023; ICLR 2022-2024; AAAI 2021-2024; IJCAI-ECAI 2022-2023;    
 ACL Rolling Review    
 
