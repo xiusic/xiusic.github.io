@@ -123,7 +123,8 @@ Philosophical Transactions A, 2022
 
 [_\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs_](https://dl.acm.org/doi/pdf/10.1145/3459637.3482222)    
 Yichao Zhou, Jyun-Yu Jiang, **Xiusi Chen** and Wei Wang    
-CIKM 2021
+CIKM 2021    
+\[[code](https://github.com/joey1993/pandemic-forecast)\]
 
 [_ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting_](https://dl.acm.org/doi/10.1145/3447548.3467330)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
