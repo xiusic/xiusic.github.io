@@ -55,7 +55,7 @@ For further information, please see my [CV](CV.pdf).
 
 [_TinyLLM: Learning a Small Student from Multiple Large Language Models_](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
-
+\[[code](https://github.com/YikunHan42/TinyLLM)\]
 <!--[_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
 **Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
 -->
@@ -82,15 +82,18 @@ CIKM 2022
 
 [_MEMORYLLM: Toward Self-Updating Large Language Models_](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
-ICML 2024
+ICML 2024    
+\[[code](https://github.com/wangyu-ustc/MemoryLLM-base)\]
 
 [_Language Models as Semantic Indexers_](https://arxiv.org/pdf/2310.07815)    
 Bowen Jin, Hansi Zeng, Guoyin Wang, **Xiusi Chen**, Tianxin Wei, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang    
-ICML 2024
+ICML 2024    
+\[[code](https://github.com/PeterGriffinJin/LMIndexer)\]
 
 [_Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting_](https://ieeexplore.ieee.org/abstract/document/10457027)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
-TKDE 2024
+TKDE 2024    
+\[[code](https://github.com/JLDeng/SCNN)\]
 
 [_How the Experience of California Wildfires Shapes Twitter Climate Change Framings_](https://link.springer.com/article/10.1007/s10584-023-03668-0)    
 Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
@@ -102,7 +105,8 @@ DataPlat@ICDE 2024
 
 [_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_](https://arxiv.org/pdf/2306.14003.pdf)       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
-KDD 2023
+KDD 2023    
+\[[code](https://github.com/yuzhimanhua/FUTEX)\]
 
 [_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting_](https://arxiv.org/pdf/2109.01657.pdf)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
@@ -110,7 +114,8 @@ TKDE 2022
 
 [_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_](https://arxiv.org/pdf/2111.04022.pdf)    
 Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
-WSDM 2022
+WSDM 2022    
+\[[code](https://github.com/yuzhimanhua/MotifClass)\]
 
 [_COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining_](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
 Jyun-Yu Jiang, Yichao Zhou, **Xiusi Chen**, Yan-Ru Jhou, Liqi Zhao, Sabrina Liu, Po-Chun Yang, Jule Ahmar, Wei Wang    
@@ -122,7 +127,8 @@ CIKM 2021
 
 [_ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting_](https://dl.acm.org/doi/10.1145/3447548.3467330)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
-KDD 2021
+KDD 2021    
+\[[code](https://github.com/JLDeng/ST-Norm)\]
 
 [_Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning_](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
 Seungbae Kim, **Xiusi Chen**, Jyun-Yu Jiang, Jinyoung Han, and Wei Wang    
@@ -134,7 +140,8 @@ TKDD 2021
 
 [_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_](https://arxiv.org/pdf/2010.13556)    
 Yu Zhang, **Xiusi Chen**, Yu Meng, Jiawei Han    
-WSDM 2021
+WSDM 2021    
+\[[code](https://github.com/yuzhimanhua/HIMECat)\]
 
 [_Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks_](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
 Ruirui Li, Xian Wu, **Xiusi Chen**, Wei Wang    
@@ -142,16 +149,18 @@ WWW 2020
 
 [_Doc2Cube: Allocating Documents to Text Cube without Labeled Data_](http://chaozhang.org/papers/icdm18.pdf)    
 Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han    
-ICDM 2018
+ICDM 2018    
+\[[code](https://github.com/fangbo-tao/doc2cube)\]
 
 [_TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)    
 Chao Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han     
-KDD 2018
+KDD 2018    
+\[[code](https://github.com/franticnerd/taxogen)\]
 
 [_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_](papers/aaai18_zhou.pdf)    
 Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao    
-AAAI 2018
-
+AAAI 2018    
+\[[code](https://github.com/jinze1994/ATRank)\]
 <!--
 [_The Design and Implementation of Index on Distributed Big Graph Processing System_](papers/ndbc17short.pdf)    
 **Xiusi Chen**, Qimu Zheng, Jun Gao    
