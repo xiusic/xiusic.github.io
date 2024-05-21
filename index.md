@@ -2,8 +2,8 @@
 [<img src="images/IMG_1847.JPG" alt="Portrait"/>](https://sites.google.com/site/ruihanwu14/)
 
 ## Contact
-Email: xchen [AT] cs [DOT] ucla [DOT] edu    
-Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90066    
+Email: xchen[AT]cs.ucla.edu    
+Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90095    
 
 <!-- ## What's New
 2018-09-10 Start my Ph.D. journey @ UCLA!
@@ -34,24 +34,29 @@ Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90066
  -->
 
 ## Bio
-I am currently a final-year Ph.D. candidate working with Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Department of Computer Science](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests lie in data mining, natural language processing and reinforcement learning applications, especially graph mining, question answering and sports RL.
+I am currently a final-year Ph.D. candidate working with Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Computer Science Department](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests lie in **Natural Language Processing**, **Complex Dynamics Modeling and Decision-Making**, and **Multi-Modality**.
 
-Before I started pursuing Ph.D., I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was a member of [Graph Data Management and Analysis Group]() directed by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1082/1294.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
+Before I started pursuing Ph.D., I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was a member of [Graph Data Management and Analysis Group]() directed by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1082/1294.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
-I was born and raised in Changsha.
+I was born and raised in Changsha, China.
 
 For further information, please see my [CV](CV.pdf).
 
 ## Preprint   
 [_Professional Basketball Player Behavior Synthesis via Planning with Diffusion_](https://arxiv.org/pdf/2306.04090.pdf)    
-**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, Curtis Chou, Lam Hoang, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
+**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
 \[[code](https://github.com/xiusic/diffuser_bball)\]
 
 [_TinyLLM: Learning a Small Student from Multiple Large Language Models_](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
 \[[code](https://github.com/YikunHan42/TinyLLM)\]
+
+[_Bridging Language and Items for Retrieval and Recommendation_](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
+Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
+\[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
+<span style="color:red">200k+ downloads as of May 2024</span>
 <!--[_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
 **Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
 -->
@@ -175,7 +180,7 @@ US Patent App. 17/060,850
 ## Academic Service
 **Conference Program Committee**        
 KDD 2020-2024; WSDM 2022-2024; SSL@WWW 2021;    
-ICML 2023-2024; NeurIPS 2022-2023; ICLR 2022-2024; AAAI 2021-2024; IJCAI-ECAI 2022-2023;    
+ICML 2023-2024; NeurIPS 2022-2024; ICLR 2022-2024; AAAI 2021-2024; IJCAI-ECAI 2022-2023;    
 ACL Rolling Review    
 
 **Conference Subreviewer**    
