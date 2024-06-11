@@ -1,6 +1,8 @@
 
 [<img src="images/IMG_1847.JPG" alt="Portrait"/>](https://sites.google.com/site/ruihanwu14/)
 
+Photo credit: [Chao Zhang](http://chaozhang.org/)
+
 ## Contact
 Email: xchen[AT]cs.ucla.edu    
 Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90095    
