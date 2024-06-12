@@ -47,15 +47,15 @@ I was born and raised in Changsha, China.
 For further information, please see my [CV](CV.pdf).
 
 ## Preprint   
-[_Professional Basketball Player Behavior Synthesis via Planning with Diffusion_](https://arxiv.org/pdf/2306.04090.pdf)    
+[Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
 **Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
 \[[code](https://github.com/xiusic/diffuser_bball)\]
 
-[_TinyLLM: Learning a Small Student from Multiple Large Language Models_](https://arxiv.org/pdf/2402.04616.pdf)    
+[TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
 \[[code](https://github.com/YikunHan42/TinyLLM)\]
 
-[_Bridging Language and Items for Retrieval and Recommendation_](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
+[Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
 <span style="color:red">200k+ downloads as of May 2024</span>
@@ -64,111 +64,111 @@ Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley
 -->
 
 ## Publication
-[_MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering_](https://arxiv.org/pdf/2310.05007.pdf)    
+[MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
-ACL 2024     
+_ACL 2024_     
 \[[code](https://github.com/xiusic/MinPrompt)\]
 
-[_IterAlign: Iterative Constitutional Alignment of Large Language Models_](https://arxiv.org/pdf/2403.18341.pdf)    
+[IterAlign: Iterative Constitutional Alignment of Large Language Models](https://arxiv.org/pdf/2403.18341.pdf)    
 **Xiusi Chen**, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang    
-NAACL 2024     
+_NAACL 2024_     
 \[[code](https://github.com/xiusic/IterAlign)\]
 
-[_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
+[Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
-SDM 2023     
+_SDM 2023_     
 \[[code](https://github.com/xiusic/Gotta)\]     
 <span style="color:red">Best Poster Award (Honorable Mention)</span>
 
-[_Scalable Graph Representation Learning via Locality-Sensitive Hashing_](papers/cikm_b.pdf)   
+[Scalable Graph Representation Learning via Locality-Sensitive Hashing](papers/cikm_b.pdf)   
 **Xiusi Chen**, Jyun-Yu Jiang and Wei Wang    
-CIKM 2022
+_CIKM 2022_
 
-[_ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games_](papers/cikm_a.pdf)       
+[ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games](papers/cikm_a.pdf)       
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
-CIKM 2022
+_CIKM 2022_
 
-[_MEMORYLLM: Toward Self-Updating Large Language Models_](https://arxiv.org/pdf/2402.04624)    
+[MEMORYLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
-ICML 2024    
+_ICML 2024_    
 \[[code](https://github.com/wangyu-ustc/MemoryLLM)\]
 
-[_Language Models as Semantic Indexers_](https://arxiv.org/pdf/2310.07815)    
+[Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815)    
 Bowen Jin, Hansi Zeng, Guoyin Wang, **Xiusi Chen**, Tianxin Wei, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang    
-ICML 2024    
+_ICML 2024_    
 \[[code](https://github.com/PeterGriffinJin/LMIndexer)\]
 
-[_Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting_](https://ieeexplore.ieee.org/abstract/document/10457027)    
+[Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
-TKDE 2024    
+_TKDE 2024_    
 \[[code](https://github.com/JLDeng/SCNN)\]
 
-[_How the Experience of California Wildfires Shapes Twitter Climate Change Framings_](https://link.springer.com/article/10.1007/s10584-023-03668-0)    
+[How the Experience of California Wildfires Shapes Twitter Climate Change Framings](https://link.springer.com/article/10.1007/s10584-023-03668-0)    
 Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
-Climatic Change, 2024
+_Climatic Change, 2024_
 
-[_Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly_]()    
+[Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly]()    
 Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
-DataPlat@ICDE 2024
+_DataPlat@ICDE 2024_
 
-[_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_](https://arxiv.org/pdf/2306.14003.pdf)       
+[Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/pdf/2306.14003.pdf)       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
-KDD 2023    
+_KDD 2023_    
 \[[code](https://github.com/yuzhimanhua/FUTEX)\]
 
-[_A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting_](https://arxiv.org/pdf/2109.01657.pdf)    
+[A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting](https://arxiv.org/pdf/2109.01657.pdf)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
-TKDE 2022
+_TKDE 2022_
 
-[_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_](https://arxiv.org/pdf/2111.04022.pdf)    
+[MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information](https://arxiv.org/pdf/2111.04022.pdf)    
 Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
-WSDM 2022    
+_WSDM 2022_    
 \[[code](https://github.com/yuzhimanhua/MotifClass)\]
 
-[_COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining_](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
+[COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
 Jyun-Yu Jiang, Yichao Zhou, **Xiusi Chen**, Yan-Ru Jhou, Liqi Zhao, Sabrina Liu, Po-Chun Yang, Jule Ahmar, Wei Wang    
-Philosophical Transactions A, 2022
+_Philosophical Transactions A, 2022_
 
-[_\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs_](https://dl.acm.org/doi/pdf/10.1145/3459637.3482222)    
+[\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482222)    
 Yichao Zhou, Jyun-Yu Jiang, **Xiusi Chen** and Wei Wang    
-CIKM 2021    
+_CIKM 2021_    
 \[[code](https://github.com/joey1993/pandemic-forecast)\]
 
-[_ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting_](https://dl.acm.org/doi/10.1145/3447548.3467330)    
+[ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467330)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
-KDD 2021    
+_KDD 2021_    
 \[[code](https://github.com/JLDeng/ST-Norm)\]
 
-[_Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning_](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
+[Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
 Seungbae Kim, **Xiusi Chen**, Jyun-Yu Jiang, Jinyoung Han, and Wei Wang    
-ICWSM 2021
+_ICWSM 2021_
 
-[_The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting_](https://dl.acm.org/doi/10.1145/3450528)    
+[The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting](https://dl.acm.org/doi/10.1145/3450528)    
 Jinliang Deng, **Xiusi Chen**, Zipei Fan, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
-TKDD 2021
+_TKDD 2021_
 
-[_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_](https://arxiv.org/pdf/2010.13556)    
+[Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/pdf/2010.13556)    
 Yu Zhang, **Xiusi Chen**, Yu Meng, Jiawei Han    
-WSDM 2021    
+_WSDM 2021_    
 \[[code](https://github.com/yuzhimanhua/HIMECat)\]
 
-[_Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks_](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
+[Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
 Ruirui Li, Xian Wu, **Xiusi Chen**, Wei Wang    
-WWW 2020
+_WWW 2020_
 
-[_Doc2Cube: Allocating Documents to Text Cube without Labeled Data_](http://chaozhang.org/papers/icdm18.pdf)    
+[Doc2Cube: Allocating Documents to Text Cube without Labeled Data](http://chaozhang.org/papers/icdm18.pdf)    
 Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han    
-ICDM 2018    
+_ICDM 2018_    
 \[[code](https://github.com/fangbo-tao/doc2cube)\]
 
-[_TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering_](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)    
+[TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)    
 Chao Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han     
-KDD 2018    
+_KDD 2018_    
 \[[code](https://github.com/franticnerd/taxogen)\]
 
-[_ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation_](papers/aaai18_zhou.pdf)    
+[ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation](papers/aaai18_zhou.pdf)    
 Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao    
-AAAI 2018    
+_AAAI 2018_    
 \[[code](https://github.com/jinze1994/ATRank)\]
 
 
@@ -176,20 +176,20 @@ AAAI 2018
 ## Patent
 [_Knowledge graph and alignment with uncertainty embedding_](https://patentimages.storage.googleapis.com/bb/ae/b3/bdfd4a1c6a8528/US20210103706A1.pdf)    
 Wenchao Yu, Bo Zong, Wei Cheng, Haifeng Chen, **Xiusi Chen**    
-US Patent App. 17/060,850
+_US Patent App. 17/060,850_
 
 
 ## Academic Service
 **Conference Program Committee**        
-KDD 2020-2024; WSDM 2022-2024; SSL@WWW 2021;    
-ICML 2023-2024; NeurIPS 2022-2024; ICLR 2022-2024; AAAI 2021-2024; IJCAI-ECAI 2022-2023;    
-ACL Rolling Review    
+_KDD 2020-2024; WSDM 2022-2024; SSL@WWW 2021_;    
+_ICML 2023-2024; NeurIPS 2022-2024; ICLR 2022-2024; AAAI 2021-2024; IJCAI-ECAI 2022-2023_;    
+_ACL Rolling Review_    
 
 **Conference Subreviewer**    
-KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019
+_KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019_
 
 **Journal Reviewer**    
-IEEE Transactions on Big Data (TBD).
+_IEEE Transactions on Big Data (TBD)_.
 
 ## Honors and Awards
 **2023**  Best Poster Award (Honorable Mention), _SDM 2023_   
