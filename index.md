@@ -49,7 +49,8 @@ For further information, please see my [CV](CV.pdf).
 ## Preprint   
 [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)    
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
-\[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]
+\[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
+<span style="color:red">300+ stars as of June 2024</span>
 
 [Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
 **Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
