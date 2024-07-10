@@ -103,6 +103,10 @@ Bowen Jin, Hansi Zeng, Guoyin Wang, **Xiusi Chen**, Tianxin Wei, Ruirui Li, Zhen
 _ICML 2024_    
 \[[code](https://github.com/PeterGriffinJin/LMIndexer)\]
 
+[TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance](https://arxiv.org/pdf/2401.13849)    
+Haorui Wang, Rongzhi Zhang, Yinghao Li, Lingkai Kong, Yuchen Zhuang, **Xiusi Chen**, Chao Zhang    
+_COLM 2024_    
+
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
 _TKDE 2024_    
