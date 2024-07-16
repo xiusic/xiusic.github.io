@@ -93,7 +93,7 @@ _CIKM 2022_
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 _CIKM 2022_
 
-[MEMORYLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
+[MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
 _ICML 2024_    
 \[[code](https://github.com/wangyu-ustc/MemoryLLM)\]
