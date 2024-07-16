@@ -76,7 +76,7 @@ _NAACL 2024_
 \[[code](https://github.com/xiusic/IterAlign)\]
 
 [PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
-**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
+**Xiusi Chen**\*, Wei-Yao Wang\*, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
 \[[code](https://github.com/xiusic/diffuser_bball)\]
 
 [Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
