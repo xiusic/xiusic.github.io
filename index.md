@@ -36,7 +36,7 @@ Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90095
  -->
 
 ## Bio
-I am currently a final-year Ph.D. candidate working with Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Computer Science Department](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests lie in **Natural Language Processing**, **Complex Dynamics Modeling and Decision-Making**, and **Multi-Modality**.
+I received a Computer Science Ph.D. degree at UCLA, where I had the fortune to be advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Computer Science Department](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests are **Natural Language Processing**, **Complex Dynamics Modeling and Decision-Making**, and **Multi-Modality**.
 
 Before I started pursuing Ph.D., I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was a member of [Graph Data Management and Analysis Group]() directed by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1082/1294.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
 
@@ -50,7 +50,7 @@ For further information, please see my [CV](CV.pdf).
 [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)    
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 \[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
-<span style="color:red">300+ stars as of June 2024</span>
+<span style="color:red">400+ stars as of 8/2024</span>
 
 [TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
@@ -63,7 +63,16 @@ Yu Zhang, Yanzhen Shen, **Xiusi Chen**, Bowen Jin, Jiawei Han
 [Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">200k+ downloads as of May 2024</span>
+<span style="color:red">200k+ downloads as of 5/2024</span>
+
+[Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
+Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
+\[[code]()\]    
+
+[Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://openreview.net/pdf?id=UHWBmZuJPF)    
+Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
+\[[code]()\]    
+
 <!--[_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
 **Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
 -->
