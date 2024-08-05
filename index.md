@@ -36,9 +36,9 @@ Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90095
  -->
 
 ## Bio
-I received a Computer Science Ph.D. degree at UCLA, where I had the fortune to be advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) in the [Computer Science Department](https://www.cs.ucla.edu/) at  [University of California, Los Angeles](http://www.ucla.edu/). My research interests are **Natural Language Processing**, **Complex Dynamics Modeling and Decision-Making**, and **Multi-Modality**.
+I received a Computer Science Ph.D. degree from [Computer Science Department](https://www.cs.ucla.edu/) at [University of California, Los Angeles](http://www.ucla.edu/), where I had the fortune to be advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). My research interests are **Natural Language Processing**, **Complex Dynamics Modeling and Decision-Making**, and **Multi-Modality**.
 
-Before I started pursuing Ph.D., I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was a member of [Graph Data Management and Analysis Group]() directed by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1082/1294.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
+Before UCLA, I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was a member of [Graph Data Management and Analysis Group]() directed by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1082/1294.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
