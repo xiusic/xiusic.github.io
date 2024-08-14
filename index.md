@@ -56,8 +56,8 @@ Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Ji
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
 \[[code](https://github.com/YikunHan42/TinyLLM)\]
 
-[“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
-Yu Zhang, Yanzhen Shen, **Xiusi Chen**, Bowen Jin, Jiawei Han    
+[Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
+Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
 \[[code]()\]
 
 [Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
