@@ -69,9 +69,9 @@ Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley
 Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
 \[[code]()\]    
 
-[Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://openreview.net/pdf?id=UHWBmZuJPF)    
+[Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
-\[[code]()\]    
+\[[code]()\]\[[project page](https://llm-strategist.github.io/)\]    
 
 <!--[_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
 **Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
