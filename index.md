@@ -1,11 +1,11 @@
 
 [<img src="images/IMG_1847.JPG" alt="Portrait"/>](https://sites.google.com/site/ruihanwu14/)
 
-Photo credit: [Chao Zhang](http://chaozhang.org/)
+<!-- Photo credit: [Chao Zhang](http://chaozhang.org/) -->
 
 ## Contact
 Email: xchen[AT]cs.ucla.edu    
-Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90095    
+Office: 201 N Goodwin Ave, Urbana, IL 61801    
 
 <!-- ## What's New
 2018-09-10 Start my Ph.D. journey @ UCLA!
@@ -36,9 +36,9 @@ Office: 3551 Boelter Hall, 420 Westwood Plaza, Los Angeles, California 90095
  -->
 
 ## Bio
-I received my Ph.D. degree in [Computer Science](https://www.cs.ucla.edu/) from [University of California, Los Angeles](http://www.ucla.edu/), where I had the fortune to be advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). My research interests are **Natural Language Processing**, **Complex Dynamics Modeling and Decision-Making**, and **Multi-Modality**.
+I am a postdoctoral research fellow from [Blender Lab](https://blender.cs.illinois.edu/index.html) at University of Illinois, Urbana-Champaign, where I am hosted by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research mainly aims at improving LLM's reasoning, alignment, and decision-making.
 
-Before UCLA, I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was under the supervision of Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
+I received my Ph.D. degree in [Computer Science](https://www.cs.ucla.edu/) from [University of California, Los Angeles](http://www.ucla.edu/), where I had the fortune to be advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my M.S. and B.S. from [Department of Computer Science](https://cs.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn/). During my M.S. years, I was under the supervision of Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked at [University of Illinois, Urbana-Champaign](http://www.cs.uiuc.edu/) and worked on several interesting topics in text mining, with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
