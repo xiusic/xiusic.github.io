@@ -50,7 +50,7 @@ My ultimate research goal is to build automated language agents that can assist 
 *    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _ICML'24b_, _CIKM'22a_, _Amazon Reviews'23 dataset_);    
 *    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22b_, _CIKM'24_}).
 
-## Selected Publications
+## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=JqGAil4AAAAJ&view_op=list_works&sortby=pubdate)]
 #### ("\*" remarks equal contribution.)
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
@@ -242,10 +242,9 @@ _IEEE Transactions on Big Data (TBD)_.
 **2014**  3rd Place of 17th Chinese University Basketball Association (CUBA) Championships, Beijing Division, _Federation of University Sports of China_   
 
 ## Miscellaneous
-
-*   I played for Peking University Men's Basketball varsity team, division II.
-*   I was a registered swimming athlete in China during high school.
-*   I was born and raised in Changsha, Hunan, China.
+I played for Peking University Men's Basketball varsity team, division II.    
+I was a registered swimming athlete in China during high school.    
+I was born and raised in Changsha, Hunan, China.
 
 <!-- 
 ## Links
