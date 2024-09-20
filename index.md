@@ -1,5 +1,5 @@
 
-[<img src="images/IMG_1847.JPG" alt="Portrait"/>](https://sites.google.com/site/ruihanwu14/)
+<!-- [<img src="images/IMG_1847.JPG" alt="Portrait"/>](https://sites.google.com/site/ruihanwu14/) -->
 
 <!-- Photo credit: [Chao Zhang](http://chaozhang.org/) -->
 
