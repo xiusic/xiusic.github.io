@@ -2,4 +2,5 @@ title: Xiusi Chen  陈修司
 description: Postdoctoral Researcher in Computer Science @ UIUC
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+logo: images/portrait.jpg
