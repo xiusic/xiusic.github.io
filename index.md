@@ -133,11 +133,13 @@ ArXiv, 2024
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
 _TKDE 2024_    
 \[[code](https://github.com/JLDeng/SCNN)\]
+-->
 
 [How the Experience of California Wildfires Shapes Twitter Climate Change Framings](https://link.springer.com/article/10.1007/s10584-023-03668-0)    
 Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
 _Climatic Change, 2024_
 
+<!--
 [Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly]()    
 Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
 _DataPlat@ICDE 2024_
@@ -159,11 +161,9 @@ Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han
 _WSDM 2022_    
 \[[code](https://github.com/yuzhimanhua/MotifClass)\]
 
-<!--
 [COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
 Jyun-Yu Jiang, Yichao Zhou, **Xiusi Chen**, Yan-Ru Jhou, Liqi Zhao, Sabrina Liu, Po-Chun Yang, Jule Ahmar, Wei Wang    
 _Philosophical Transactions A, 2022_
--->
 
 [\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482222)    
 Yichao Zhou, Jyun-Yu Jiang, **Xiusi Chen** and Wei Wang    
@@ -191,11 +191,9 @@ Yu Zhang, **Xiusi Chen**, Yu Meng, Jiawei Han
 _WSDM 2021_    
 \[[code](https://github.com/yuzhimanhua/HIMECat)\]
 
-<!--
 [Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
 Ruirui Li, Xian Wu, **Xiusi Chen**, Wei Wang    
 _WWW 2020_
--->
 
 [Doc2Cube: Allocating Documents to Text Cube without Labeled Data](http://chaozhang.org/papers/icdm18.pdf)    
 Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han    
