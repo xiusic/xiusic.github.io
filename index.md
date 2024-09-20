@@ -230,7 +230,7 @@ _KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019_
 _IEEE Transactions on Big Data (TBD)_.
 
 ## Honors and Awards
-**2023**  Best Poster Award (Honorable Mention), _SDM 2023_   
+**2023**  [Best Poster Award (Honorable Mention)](images/bpahm.pdf), _SDM 2023_   
 **2023**  SIAM Student Travel Award, _SIAM_   
 **2021, 2022**  SIGIR Student Travel Grant, _ACM SIGIR_    
 **2016, 2017**  Graduate Student Acedemic Scholarship, _Peking University_     
