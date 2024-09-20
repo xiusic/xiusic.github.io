@@ -46,9 +46,9 @@ For further information, please see my [CV](CV.pdf).
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
-*    **Large Language Models**, especially low-resource LLM reasoning (_ACL'24_, _COLM'24_) and alignment (_NAACL'24_);    
-*    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _CIKM'24_, _Amazon Reviews'23 dataset_);    
-*    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22_, _CIKM'24_}).
+*    **Large Language Models**, especially low-resource LLM reasoning (_ACL'24_, _ICML'24a_, _COLM'24_, _SDM'24_) and alignment (_NAACL'24_);    
+*    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _ICML'24b_, _CIKM'22a_, _Amazon Reviews'23 dataset_);    
+*    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22b_, _CIKM'24_}).
 
 ## Selected Publications
 
