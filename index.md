@@ -42,43 +42,16 @@ I received my Ph.D. degree in [Computer Science](https://www.cs.ucla.edu/) from 
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
-I was born and raised in Changsha, Hunan, China.
-
 For further information, please see my [CV](CV.pdf).
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
 *    **Large Language Models**, especially low-resource LLM reasoning (_ACL'24_, _COLM'24_) and alignment (_NAACL'24_);    
-*    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _CIKM'24_, _Amazon Reviews'23_);    
+*    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _CIKM'24_, _Amazon Reviews'23 dataset_);    
 *    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22_, _CIKM'24_}).
 
-## Preprint   
-[TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
-Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
-\[[code](https://github.com/YikunHan42/TinyLLM)\]
+## Selected Publications
 
-[Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
-Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
-\[[code]()\]
-
-[Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
-Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
-\[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">200k+ downloads as of 5/2024</span>
-
-[Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
-Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
-\[[code]()\]    
-
-[Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
-Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
-\[[code]()\]\[[project page](https://llm-strategist.github.io/)\]    
-
-<!--[_Learning Item Embedding with Heterogeneous Information for Collaborative Filtering_](papers/icde18.pdf)    
-**Xiusi Chen**, Xiaoyu Li, Chang Zhou, Xiaofei Liu, Jun Gao    
--->
-
-## Publication
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
 _ACL 2024_     
@@ -127,6 +100,32 @@ _ICML 2024_
 [TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance](https://arxiv.org/pdf/2401.13849)    
 Haorui Wang, Rongzhi Zhang, Yinghao Li, Lingkai Kong, Yuchen Zhuang, **Xiusi Chen**, Chao Zhang    
 _COLM 2024_    
+
+[TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
+Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
+ArXiv, 2024    
+\[[code](https://github.com/YikunHan42/TinyLLM)\]
+
+[Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
+Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
+ArXiv, 2024    
+\[[code]()\]
+
+[Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
+Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
+ArXiv, 2024    
+\[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
+<span style="color:red">200k+ downloads as of 5/2024</span>
+
+[Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
+Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
+ArXiv, 2024    
+\[[code]()\]    
+
+[Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
+Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
+ArXiv, 2024    
+\[[code]()\]\[[project page](https://llm-strategist.github.io/)\] 
 
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
@@ -234,6 +233,7 @@ _IEEE Transactions on Big Data (TBD)_.
 
 *   I played for Peking University Men's Basketball varsity team, division II.
 *   I was a registered swimming athlete in China during high school.
+*   I was born and raised in Changsha, Hunan, China.
 
 ## Links
 [❤️ My Brilliant Fiancé](https://sites.google.com/site/ruihanwu14/)    
