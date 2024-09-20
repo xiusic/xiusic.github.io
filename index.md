@@ -50,7 +50,8 @@ My ultimate research goal is to build automated language agents that can assist 
 *    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _ICML'24b_, _CIKM'22a_, _Amazon Reviews'23 dataset_);    
 *    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22b_, _CIKM'24_}).
 
-## Publications
+## Selected Publications
+#### ("\*" remarks equal contribution.)
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
@@ -87,6 +88,11 @@ _CIKM 2022_
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 _CIKM 2022_
 
+[TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
+Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
+ArXiv, 2024    
+\[[code](https://github.com/YikunHan42/TinyLLM)\]
+
 [MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
 _ICML 2024_    
@@ -100,11 +106,6 @@ _ICML 2024_
 [TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance](https://arxiv.org/pdf/2401.13849)    
 Haorui Wang, Rongzhi Zhang, Yinghao Li, Lingkai Kong, Yuchen Zhuang, **Xiusi Chen**, Chao Zhang    
 _COLM 2024_    
-
-[TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
-Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
-ArXiv, 2024    
-\[[code](https://github.com/YikunHan42/TinyLLM)\]
 
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
@@ -125,8 +126,9 @@ ArXiv, 2024
 [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
 ArXiv, 2024    
-\[[code]()\]\[[project page](https://llm-strategist.github.io/)\] 
+\[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\] 
 
+<!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
 _TKDE 2024_    
@@ -139,35 +141,42 @@ _Climatic Change, 2024_
 [Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly]()    
 Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
 _DataPlat@ICDE 2024_
+-->
 
 [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/pdf/2306.14003.pdf)       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
 _KDD 2023_    
 \[[code](https://github.com/yuzhimanhua/FUTEX)\]
 
+<!--
 [A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting](https://arxiv.org/pdf/2109.01657.pdf)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
 _TKDE 2022_
+-->
 
 [MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information](https://arxiv.org/pdf/2111.04022.pdf)    
 Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
 _WSDM 2022_    
 \[[code](https://github.com/yuzhimanhua/MotifClass)\]
 
+<!--
 [COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
 Jyun-Yu Jiang, Yichao Zhou, **Xiusi Chen**, Yan-Ru Jhou, Liqi Zhao, Sabrina Liu, Po-Chun Yang, Jule Ahmar, Wei Wang    
 _Philosophical Transactions A, 2022_
+-->
 
 [\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482222)    
 Yichao Zhou, Jyun-Yu Jiang, **Xiusi Chen** and Wei Wang    
 _CIKM 2021_    
 \[[code](https://github.com/joey1993/pandemic-forecast)\]
 
+
 [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467330)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 _KDD 2021_    
 \[[code](https://github.com/JLDeng/ST-Norm)\]
 
+<!--
 [Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
 Seungbae Kim, **Xiusi Chen**, Jyun-Yu Jiang, Jinyoung Han, and Wei Wang    
 _ICWSM 2021_
@@ -175,15 +184,18 @@ _ICWSM 2021_
 [The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting](https://dl.acm.org/doi/10.1145/3450528)    
 Jinliang Deng, **Xiusi Chen**, Zipei Fan, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 _TKDD 2021_
+-->
 
 [Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/pdf/2010.13556)    
 Yu Zhang, **Xiusi Chen**, Yu Meng, Jiawei Han    
 _WSDM 2021_    
 \[[code](https://github.com/yuzhimanhua/HIMECat)\]
 
+<!--
 [Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
 Ruirui Li, Xian Wu, **Xiusi Chen**, Wei Wang    
 _WWW 2020_
+-->
 
 [Doc2Cube: Allocating Documents to Text Cube without Labeled Data](http://chaozhang.org/papers/icdm18.pdf)    
 Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han    
