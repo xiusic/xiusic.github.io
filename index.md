@@ -235,6 +235,7 @@ _IEEE Transactions on Big Data (TBD)_.
 *   I was a registered swimming athlete in China during high school.
 *   I was born and raised in Changsha, Hunan, China.
 
+<!-- 
 ## Links
 [❤️ My Brilliant Fiancé](https://sites.google.com/site/ruihanwu14/)    
 [Google Scholar](https://scholar.google.com/citations?user=JqGAil4AAAAJ)    
@@ -242,6 +243,6 @@ _IEEE Transactions on Big Data (TBD)_.
 [DBLP](https://dblp.org/pid/210/1049)    
 [Twitter](https://twitter.com/XtremSup)    
 [LinkedIn](https://www.linkedin.com/in/xiusi-chen-53180583/)    
-
+-->
 
 
