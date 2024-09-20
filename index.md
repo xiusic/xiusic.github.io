@@ -139,11 +139,9 @@ _TKDE 2024_
 Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
 _Climatic Change, 2024_
 
-<!--
 [Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly]()    
 Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
 _DataPlat@ICDE 2024_
--->
 
 [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/pdf/2306.14003.pdf)       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
@@ -176,11 +174,12 @@ Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang
 _KDD 2021_    
 \[[code](https://github.com/JLDeng/ST-Norm)\]
 
-<!--
+
 [Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
 Seungbae Kim, **Xiusi Chen**, Jyun-Yu Jiang, Jinyoung Han, and Wei Wang    
 _ICWSM 2021_
 
+<!--
 [The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting](https://dl.acm.org/doi/10.1145/3450528)    
 Jinliang Deng, **Xiusi Chen**, Zipei Fan, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 _TKDD 2021_
