@@ -46,6 +46,12 @@ I was born and raised in Changsha, Hunan, China.
 
 For further information, please see my [CV](CV.pdf).
 
+## Research Interests
+My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
+*    **Large Language Models**, especially low-resource LLM reasoning (_ACL'24_, _COLM'24_) and alignment (_NAACL'24_);    
+*    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _CIKM'24_, _Amazon Reviews'23_);    
+*    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22_, _CIKM'24_}).
+
 ## Preprint   
 [TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
