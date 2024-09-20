@@ -78,7 +78,7 @@ _CIKM 2024_
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
 _SDM 2023_     
 \[[code](https://github.com/xiusic/Gotta)\]     
-<span style="color:red">Best Poster Award (Honorable Mention)</span>
+<span style="color:red">Long paper, Best Poster Award (Honorable Mention)</span>
 
 [Scalable Graph Representation Learning via Locality-Sensitive Hashing](papers/cikm_b.pdf)   
 **Xiusi Chen**, Jyun-Yu Jiang and Wei Wang    
