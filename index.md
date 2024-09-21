@@ -55,17 +55,17 @@ My ultimate research goal is to build automated language agents that can assist 
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
-_ACL 2024_     
+_ACL 2024, main conference_     
 \[[code](https://github.com/xiusic/MinPrompt)\]
 
 [IterAlign: Iterative Constitutional Alignment of Large Language Models](https://arxiv.org/pdf/2403.18341.pdf)    
 **Xiusi Chen**, Hongzhi Wen, Sreyashi Nag, Chen Luo, Qingyu Yin, Ruirui Li, Zheng Li, Wei Wang    
-_NAACL 2024_     
+_NAACL 2024, main conference_     
 \[[code](https://github.com/xiusic/IterAlign)\]
 
 [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)    
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
-_EMNLP 2024_     
+_EMNLP 2024, main conference_     
 \[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
 <span style="color:red">400+ stars as of 8/2024</span>
 
