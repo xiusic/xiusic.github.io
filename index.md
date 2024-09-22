@@ -36,9 +36,9 @@ Office: 201 N Goodwin Ave, Urbana, IL 61801
  -->
 
 ## Bio
-I am a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at University of Illinois Urbana-Champaign (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research mainly aims at improving reasoning, alignment, and decision-making of Large Language Models (LLMs).
+I am a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/) (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research mainly aims at improving reasoning, alignment, and decision-making of Large Language Models (LLMs).
 
-I completed my Ph.D. in Computer Science at University of California, Los Angeles (UCLA), advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my M.S. and B.S. in Computer Science from Peking University, advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer. During Ph.D., I spent two summers at Amazon Search and one summer at NEC Labs America.
+I completed my Ph.D. in Computer Science at [University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my M.S. and B.S. in Computer Science from [Peking University](https://cs.pku.edu.cn/English/Home.htm), advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer. During Ph.D., I spent two summers at Amazon Search and one summer at NEC Labs America.
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
