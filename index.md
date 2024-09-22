@@ -36,13 +36,13 @@ Office: 201 N Goodwin Ave, Urbana, IL 61801
  -->
 
 ## Bio
-I am a postdoctoral research fellow from [Blender Lab](https://blender.cs.illinois.edu/index.html) at University of Illinois Urbana-Champaign, where I am hosted by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research mainly aims at improving LLM's reasoning, alignment, and decision-making.
+I am a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at University of Illinois Urbana-Champaign (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research mainly aims at improving reasoning, alignment, and decision-making of Large Language Models (LLMs).
 
-I completed my Ph.D. in Computer Science at University of California, Los Angeles, where I was advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my M.S. and B.S. in Computer Science from Peking University advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer.
+I completed my Ph.D. in Computer Science at University of California, Los Angeles (UCLA), where I was advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my M.S. and B.S. in Computer Science from Peking University, advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer. During Ph.D., I spent two summers at Amazon Search and one summer at NEC Labs America.
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
-For further information, please refer to my [CV](CV.pdf).
+My CV is available [here](CV.pdf). My pronouns are He/Him/His.
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
@@ -51,7 +51,7 @@ My ultimate research goal is to build automated language agents that can assist 
 *    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22b_, _CIKM'24_}).
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=JqGAil4AAAAJ&view_op=list_works&sortby=pubdate)]
-#### ("\*" remarks equal contribution.)
+#### ("\*" marks equal contribution.)
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
