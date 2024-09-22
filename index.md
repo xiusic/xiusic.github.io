@@ -42,7 +42,7 @@ I completed my Ph.D. in Computer Science at University of California, Los Angele
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
-For further information, please see my [CV](CV.pdf).
+For further information, please refer to my [CV](CV.pdf).
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
