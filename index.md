@@ -67,7 +67,7 @@ _NAACL 2024, main conference_
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024, main conference_     
 \[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
-<span style="color:red">400+ stars as of 8/2024</span>
+<span style="color:red">400+ stars</span>
 
 [PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
 **Xiusi Chen**\*, Wei-Yao Wang\*, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
@@ -82,11 +82,13 @@ _SDM 2023_
 
 [Scalable Graph Representation Learning via Locality-Sensitive Hashing](papers/cikm_b.pdf)   
 **Xiusi Chen**, Jyun-Yu Jiang and Wei Wang    
-_CIKM 2022_
+_CIKM 2022_    
+\[[code]()\]
 
 [ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games](papers/cikm_a.pdf)       
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
-_CIKM 2022_
+_CIKM 2022_    
+\[[code]()\]
 
 [TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
@@ -107,16 +109,17 @@ _ICML 2024_
 Haorui Wang, Rongzhi Zhang, Yinghao Li, Lingkai Kong, Yuchen Zhuang, **Xiusi Chen**, Chao Zhang    
 _COLM 2024_    
 
-[Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
-Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
-ArXiv, 2024    
-\[[code]()\]
-
 [Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 ArXiv, 2024    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">200k+ downloads as of 5/2024</span>
+<span style="color:red">100+ stars</span>    
+<span style="color:red">300k+ downloads on HuggingFace</span>
+
+[Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
+Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
+ArXiv, 2024    
+\[[code]()\]
 
 [Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
 Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
@@ -139,9 +142,11 @@ _TKDE 2024_
 Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
 _Climatic Change, 2024_
 
+<!--
 [Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly]()    
 Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
 _DataPlat@ICDE 2024_
+-->
 
 [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/pdf/2306.14003.pdf)       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
@@ -168,18 +173,16 @@ Yichao Zhou, Jyun-Yu Jiang, **Xiusi Chen** and Wei Wang
 _CIKM 2021_    
 \[[code](https://github.com/joey1993/pandemic-forecast)\]
 
-
 [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467330)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 _KDD 2021_    
 \[[code](https://github.com/JLDeng/ST-Norm)\]
 
-
+<!--
 [Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
 Seungbae Kim, **Xiusi Chen**, Jyun-Yu Jiang, Jinyoung Han, and Wei Wang    
 _ICWSM 2021_
 
-<!--
 [The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting](https://dl.acm.org/doi/10.1145/3450528)    
 Jinliang Deng, **Xiusi Chen**, Zipei Fan, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 _TKDD 2021_
