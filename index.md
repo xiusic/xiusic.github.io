@@ -70,7 +70,7 @@ _EMNLP 2024, main conference_
 <span style="color:red">400+ stars</span>
 
 [PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
-**Xiusi Chen**\*, Wei-Yao Wang\*, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
+**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
 _CIKM 2024_    
 \[[code](https://github.com/xiusic/diffuser_bball)\]
 
@@ -94,6 +94,11 @@ _CIKM 2022_
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
 ArXiv, 2024    
 \[[code](https://github.com/YikunHan42/TinyLLM)\]
+
+[One Step towards Autonomous AI Agent: Reasoning, Alignment and Planning](https://escholarship.org/uc/item/9qc7g63d)    
+**Xiusi Chen**    
+Thesis Committee: Wei Wang, Yizhou Sun, Kai-Wei Chang, P. Jefferey Brantingham    
+_Ph.D. Thesis_
 
 [MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
