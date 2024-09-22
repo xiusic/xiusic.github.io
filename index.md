@@ -4,7 +4,7 @@
 <!-- Photo credit: [Chao Zhang](http://chaozhang.org/) -->
 
 ## Contact
-Email: xchen[AT]cs.ucla.edu    
+Email: xchen [AT] cs [DOT] ucla [DOT] edu    
 Office: 201 N Goodwin Ave, Urbana, IL 61801    
 
 <!-- ## What's New
