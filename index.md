@@ -118,24 +118,28 @@ _COLM 2024_
 
 [Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
-ArXiv, 2024    
+_ArXiv 2024_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
 <span style="color:red">100+ stars</span>    
 <span style="color:red">300k+ downloads on HuggingFace</span>
 
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
-ArXiv, 2024    
+_ArXiv 2024_    
 \[[code]()\]
 
 [Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
 Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
-ArXiv, 2024    
+_ArXiv 2024_    
 \[[code]()\]    
+
+[Towards LifeSpan Cognitive Systems](https://arxiv.org/pdf/2409.13265)    
+Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, Xiusi Chen, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley    
+_ArXiv 2024_
 
 [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
-ArXiv, 2024    
+_ArXiv 2024_    
 \[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\] 
 
 <!--
