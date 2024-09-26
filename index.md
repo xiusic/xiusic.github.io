@@ -50,6 +50,8 @@ My ultimate research goal is to build automated language agents that can assist 
 *    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _ICML'24b_, _CIKM'22a_, _Amazon Reviews'23 dataset_);    
 *    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22b_, _CIKM'24_}).
 
+**To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
+
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=JqGAil4AAAAJ&view_op=list_works&sortby=pubdate)]
 #### ("\*" marks equal contribution.)
 
