@@ -68,7 +68,7 @@ _NAACL 2024, main conference_
 [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)    
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024, main conference_     
-\[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
+\[[repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
 <span style="color:red">400+ stars</span>
 
 [PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
@@ -134,7 +134,7 @@ _ArXiv 2024_
 \[[code]()\]    
 
 [Towards LifeSpan Cognitive Systems](https://arxiv.org/pdf/2409.13265)    
-Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, Xiusi Chen, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley    
+Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, **Xiusi Chen**, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley    
 _ArXiv 2024_
 
 [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
