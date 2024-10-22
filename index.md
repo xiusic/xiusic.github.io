@@ -224,12 +224,12 @@ _AAAI 2018_
 \[[code](https://github.com/jinze1994/ATRank)\]
 
 
-
+<!--
 ## Patent
 [_Knowledge graph and alignment with uncertainty embedding_](https://patentimages.storage.googleapis.com/bb/ae/b3/bdfd4a1c6a8528/US20210103706A1.pdf)    
 Wenchao Yu, Bo Zong, Wei Cheng, Haifeng Chen, **Xiusi Chen**    
 _US Patent App. 17/060,850_
-
+-->
 
 ## Academic Service
 **Conference Program Committee**        
