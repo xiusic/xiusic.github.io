@@ -76,6 +76,11 @@ _EMNLP 2024, main conference_
 _CIKM 2024_    
 \[[code](https://github.com/xiusic/diffuser_bball)\]
 
+[Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2402.04616.pdf)    
+Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
+_WSDM 2024_    
+\[[code](https://github.com/YikunHan42/TinyLLM)\]
+
 [Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
 _SDM 2023_     
@@ -91,11 +96,6 @@ _CIKM 2022_
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 _CIKM 2022_    
 \[[code]()\]
-
-[TinyLLM: Learning a Small Student from Multiple Large Language Models](https://arxiv.org/pdf/2402.04616.pdf)    
-Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
-ArXiv, 2024    
-\[[code](https://github.com/YikunHan42/TinyLLM)\]
 
 [One Step towards Autonomous AI Agent: Reasoning, Alignment and Planning](https://escholarship.org/uc/item/9qc7g63d)    
 **Xiusi Chen**    
