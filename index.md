@@ -46,9 +46,9 @@ My CV is available [here](CV.pdf). My pronouns are He/Him/His.
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
-*    **Large Language Models**, especially low-resource LLM reasoning (_ACL'24_, _ICML'24a_, _COLM'24_, _SDM'24_) and alignment (_NAACL'24_);    
-*    **NLP Applications**, especially in AI for Science, IR and recommendation (_EMNLP'24_, _ICML'24b_, _CIKM'22a_, _Amazon Reviews'23 dataset_);    
-*    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain (_CIKM'22b_, _CIKM'24_}).
+*    **Large Language Models**, especially low-resource LLM reasoning ([_ACL'24_](https://arxiv.org/pdf/2310.05007.pdf), [_ICML'24a_](https://arxiv.org/pdf/2402.04624), [_COLM'24_](https://arxiv.org/pdf/2401.13849), [_SDM'23_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102), [_WSDM'24_](https://arxiv.org/pdf/2402.04616.pdf)) and alignment ([_NAACL'24_](https://arxiv.org/pdf/2403.18341.pdf));    
+*    **NLP Applications**, especially in AI for Science, IR and recommendation ([_EMNLP'24_](https://arxiv.org/pdf/2406.10833), [_ICML'24b_](https://arxiv.org/pdf/2310.07815), [_CIKM'22a_](papers/cikm_b.pdf), [_Amazon Reviews'23 dataset_](https://arxiv.org/pdf/2403.03952));    
+*    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain ([_CIKM'22b_](papers/cikm_a.pdf), [_CIKM'24_](https://arxiv.org/pdf/2306.04090.pdf)).
 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
@@ -65,16 +65,16 @@ _ACL 2024, main conference_
 _NAACL 2024, main conference_     
 \[[code](https://github.com/xiusic/IterAlign)\]
 
+[PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
+**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
+_CIKM 2024_    
+\[[code](https://github.com/xiusic/diffuser_bball)\]
+
 [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)    
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024, main conference_     
 \[[repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
 <span style="color:red">400+ stars</span>
-
-[PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
-**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
-_CIKM 2024_    
-\[[code](https://github.com/xiusic/diffuser_bball)\]
 
 [Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
