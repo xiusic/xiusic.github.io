@@ -97,10 +97,12 @@ _CIKM 2022_
 _CIKM 2022_    
 \[[code]()\]
 
+<!--
 [One Step towards Autonomous AI Agent: Reasoning, Alignment and Planning](https://escholarship.org/uc/item/9qc7g63d)    
 **Xiusi Chen**    
 Thesis Committee: Wei Wang, Yizhou Sun, Kai-Wei Chang, P. Jefferey Brantingham    
 _Ph.D. Thesis, UCLA, 2024_
+-->
 
 [MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
