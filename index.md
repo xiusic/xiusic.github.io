@@ -5,7 +5,7 @@
 
 ## Contact
 Email: xiusic [AT] illinois [DOT] edu    
-Office: 201 N Goodwin Ave, Urbana, IL 61801    
+Office: 4101 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801    
 
 <!-- ## What's New
 2018-09-10 Start my Ph.D. journey @ UCLA!
