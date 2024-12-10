@@ -78,7 +78,7 @@ _CIKM 2024_
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024_     
 \[[repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
-<span style="color:red">400+ stars</span>
+<span style="color:red">500+ stars on GitHub</span>
 
 [Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitech V. Chawla    
@@ -126,7 +126,7 @@ _COLM 2024_
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 _ArXiv 2024_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">100+ stars</span>    
+<span style="color:red">100+ stars on Github</span>    
 <span style="color:red">300k+ downloads on HuggingFace</span>
 
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
