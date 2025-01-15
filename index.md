@@ -108,6 +108,10 @@ Thesis Committee: Wei Wang, Yizhou Sun, Kai-Wei Chang, P. Jefferey Brantingham
 _Ph.D. Thesis, UCLA, 2024_
 -->
 
+[Towards LifeSpan Cognitive Systems](https://arxiv.org/pdf/2409.13265)    
+Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, **Xiusi Chen**, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley    
+_TMLR 2025_
+
 [MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
 _ICML 2024_    
@@ -129,6 +133,11 @@ _ArXiv 2024_
 <span style="color:red">100+ stars on Github</span>    
 <span style="color:red">300k+ downloads on HuggingFace</span>
 
+[EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)    
+Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
+_ArXiv 2024_    
+\[[code](https://github.com/qiancheng0/EscapeBench)\]
+
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
 _ArXiv 2024_    
@@ -148,10 +157,6 @@ _ArXiv 2024_
 Junyu Luo, Xiao Luo, **Xiusi Chen**, Zhiping Xiao, Wei Ju, Ming Zhang    
 _ArXiv 2024_    
 \[[code](https://github.com/luo-junyu/SemiEvol)\]  
-
-[Towards LifeSpan Cognitive Systems](https://arxiv.org/pdf/2409.13265)    
-Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, **Xiusi Chen**, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley    
-_ArXiv 2024_
 
 [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
