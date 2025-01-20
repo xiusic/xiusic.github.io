@@ -112,6 +112,11 @@ _Ph.D. Thesis, UCLA, 2024_
 Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, **Xiusi Chen**, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley    
 _TMLR 2025_
 
+[Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
+Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
+_WWW 2025_    
+\[[code]()\]
+
 [MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
 _ICML 2024_    
@@ -137,11 +142,6 @@ _ArXiv 2024_
 Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
 _ArXiv 2024_    
 \[[code](https://github.com/qiancheng0/EscapeBench)\]
-
-[Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
-Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
-_ArXiv 2024_    
-\[[code]()\]
 
 [Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
 Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
