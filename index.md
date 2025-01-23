@@ -132,6 +132,11 @@ Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han
 _WWW 2025_    
 \[[code]()\]
 
+[SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation](https://arxiv.org/pdf/2410.14745)    
+Junyu Luo, Xiao Luo, **Xiusi Chen**, Zhiping Xiao, Wei Ju, Ming Zhang    
+_NAACL 2025 (Findings)_    
+\[[code](https://github.com/luo-junyu/SemiEvol)\]  
+
 [MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
 _ICML 2024_    
@@ -157,12 +162,6 @@ _ArXiv 2024_
 Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
 _ArXiv 2024_    
 \[[code](https://github.com/qiancheng0/EscapeBench)\]
-
-[SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation](https://arxiv.org/pdf/2410.14745)    
-Junyu Luo, Xiao Luo, **Xiusi Chen**, Zhiping Xiao, Wei Ju, Ming Zhang    
-_ArXiv 2024_    
-\[[code](https://github.com/luo-junyu/SemiEvol)\]  
-
 
 <!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
