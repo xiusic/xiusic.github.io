@@ -111,7 +111,7 @@ _Ph.D. Thesis, UCLA, 2024_
 [Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
 Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
 _ICLR 2025_    
-\[[code]()\]    
+\[[code](https://github.com/wangyu-ustc/LargeScaleWashing)\]    
 
 [Self-Updatable Large Language Models with Parameter Integration](https://arxiv.org/pdf/2410.00487)    
 Yu Wang, Xinshuang Liu, **Xiusi Chen**, Sean O'Brien, Junda Wu, Julian McAuley    
@@ -130,7 +130,7 @@ _TMLR 2025_
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
 _WWW 2025_    
-\[[code]()\]
+\[[code](https://github.com/yuzhimanhua/CoF)\]
 
 [SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation](https://arxiv.org/pdf/2410.14745)    
 Junyu Luo, Xiao Luo, **Xiusi Chen**, Zhiping Xiao, Wei Ju, Ming Zhang    
