@@ -46,9 +46,9 @@ My CV is available [here](CV.pdf). My pronouns are He/Him/His.
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
-*    **Large Language Models**, especially low-resource LLM reasoning ([_ACL'24_](https://arxiv.org/pdf/2310.05007.pdf), [_ICML'24a_](https://arxiv.org/pdf/2402.04624), [_COLM'24_](https://arxiv.org/pdf/2401.13849), [_SDM'23_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102), [_WSDM'24_](https://arxiv.org/pdf/2402.04616.pdf)) and alignment ([_NAACL'24_](https://arxiv.org/pdf/2403.18341.pdf));    
+*    **Large Language Models**, especially low-resource LLM reasoning ([_ACL'24_](https://arxiv.org/pdf/2310.05007.pdf), [_ICML'24a_](https://arxiv.org/pdf/2402.04624), [_ICLR'25a_](https://arxiv.org/pdf/2410.00487), [_COLM'24_](https://arxiv.org/pdf/2401.13849), [_SDM'23_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102), [_WSDM'24_](https://arxiv.org/pdf/2402.04616.pdf)) and alignment ([_NAACL'24_](https://arxiv.org/pdf/2403.18341.pdf));    
 *    **NLP Applications**, especially in AI for Science, IR and recommendation ([_EMNLP'24_](https://arxiv.org/pdf/2406.10833), [_ICML'24b_](https://arxiv.org/pdf/2310.07815), [_CIKM'22a_](papers/cikm_b.pdf), [_Amazon Reviews'23 dataset_](https://arxiv.org/pdf/2403.03952));    
-*    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain ([_CIKM'22b_](papers/cikm_a.pdf), [_CIKM'24_](https://arxiv.org/pdf/2306.04090.pdf)).
+*    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain ([_CIKM'22b_](papers/cikm_a.pdf), [_CIKM'24_](https://arxiv.org/pdf/2306.04090.pdf), [_ICLR'25b_](https://arxiv.org/pdf/2408.10635), [_Arxiv'24_](https://arxiv.org/pdf/2412.13549), [_Arxiv'25_](https://arxiv.org/pdf/2502.11435)).
 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
@@ -78,7 +78,7 @@ _CIKM 2024_
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024_     
 \[[repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
-<span style="color:red">500+ stars on GitHub</span>
+<span style="color:red">550+ stars on GitHub</span>
 
 [Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitesh V. Chawla    
@@ -155,8 +155,8 @@ _COLM 2024_
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 _ArXiv 2024_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">100+ stars on Github</span>    
-<span style="color:red">300k+ downloads on HuggingFace</span>
+<span style="color:red">150+ stars on Github</span>    
+<span style="color:red">400k+ downloads on HuggingFace</span>
 
 [EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)    
 Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
