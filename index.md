@@ -53,7 +53,7 @@ My ultimate research goal is to build automated language agents that can assist 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
 ### Invited Talks
-May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at [NAACL 2025](papers/naacl25_tutorial.pdf)
+May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
 Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP about [LLM Reasoning & Alignment](papers/uiuc_nlp_10.25.2024.pdf)    
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & Alignment](papers/DARPA_talk.pdf)    
 
@@ -100,6 +100,16 @@ _CIKM 2022_
 [ReLiable: Offline Reinforcement Learning for Tactical Strategies in Professional Basketball Games](papers/cikm_a.pdf)       
 **Xiusi Chen**, Jyun-Yu Jiang, Kun Jin, Yichao Zhou, Mingyan Liu, Jefferey Brantingham and Wei Wang    
 _CIKM 2022_    
+\[[code]()\]
+
+[ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/pdf/2504.13958)    
+Cheng Qian, Emre Can Acikgoz, Qi He, Hongru Wang, **Xiusi Chen**, Dilek Hakkani-Tür, Gokhan Tur, Heng Ji    
+_ArXiv 2025_    
+\[[code](https://github.com/qiancheng0/ToolRL)\]
+
+[OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870)    
+Hongru Wang, Cheng Qian, Wanjun Zhong, **Xiusi Chen**, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji    
+_ArXiv 2025_    
 \[[code]()\]
 
 <!--
