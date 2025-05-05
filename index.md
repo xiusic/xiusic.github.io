@@ -53,6 +53,7 @@ My ultimate research goal is to build automated language agents that can assist 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
 ### Invited Talks
+May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at [NAACL 2025](papers/naacl25_tutorial.pdf)
 Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP about [LLM Reasoning & Alignment](papers/uiuc_nlp_10.25.2024.pdf)    
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & Alignment](papers/DARPA_talk.pdf)    
 
