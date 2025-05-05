@@ -53,7 +53,7 @@ My ultimate research goal is to build automated language agents that can assist 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
 ### Invited Talks
-May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
+May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
 Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP about [LLM Reasoning & Alignment](papers/uiuc_nlp_10.25.2024.pdf)    
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & Alignment](papers/DARPA_talk.pdf)    
 
@@ -112,6 +112,11 @@ Hongru Wang, Cheng Qian, Wanjun Zhong, **Xiusi Chen**, Jiahao Qiu, Shijue Huang,
 _ArXiv 2025_    
 \[[code]()\]
 
+[EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)    
+Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
+_ArXiv 2024_    
+\[[code](https://github.com/qiancheng0/EscapeBench)\]
+
 <!--
 [One Step towards Autonomous AI Agent: Reasoning, Alignment and Planning](https://escholarship.org/uc/item/9qc7g63d)    
 **Xiusi Chen**    
@@ -143,11 +148,6 @@ Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han
 _WWW 2025_    
 \[[code](https://github.com/yuzhimanhua/CoF)\]
 
-[SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation](https://arxiv.org/pdf/2410.14745)    
-Junyu Luo, Xiao Luo, **Xiusi Chen**, Zhiping Xiao, Wei Ju, Ming Zhang    
-_NAACL 2025 (Findings)_    
-\[[code](https://github.com/luo-junyu/SemiEvol)\]  
-
 [MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
 Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
 _ICML 2024_    
@@ -169,10 +169,6 @@ _ArXiv 2024_
 <span style="color:red">150+ stars on Github</span>    
 <span style="color:red">400k+ downloads on HuggingFace</span>
 
-[EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)    
-Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
-_ArXiv 2024_    
-\[[code](https://github.com/qiancheng0/EscapeBench)\]
 
 <!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
