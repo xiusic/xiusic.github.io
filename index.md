@@ -60,6 +60,11 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & A
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=JqGAil4AAAAJ&view_op=list_works&sortby=pubdate)]
 #### ("\*" marks equal contribution.)
 
+[RM-R1: Reward Modeling as Reasoning](https://arxiv.org/pdf/2505.02387)    
+**Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru WANG, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
+_ArXiv 2025_    
+\[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[dataset \& model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]
+
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
 _ACL 2024_     
@@ -114,7 +119,7 @@ _ArXiv 2025_
 
 [EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)    
 Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
-_ArXiv 2024_    
+_ACL 2025_    
 \[[code](https://github.com/qiancheng0/EscapeBench)\]
 
 <!--
@@ -169,43 +174,34 @@ _ArXiv 2024_
 <span style="color:red">150+ stars on Github</span>    
 <span style="color:red">400k+ downloads on HuggingFace</span>
 
-
 <!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
 _TKDE 2024_    
 \[[code](https://github.com/JLDeng/SCNN)\]
--->
 
-<!--
 [How the Experience of California Wildfires Shapes Twitter Climate Change Framings](https://link.springer.com/article/10.1007/s10584-023-03668-0)    
 Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
 _Climatic Change, 2024_
--->
 
-<!--
 [Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly]()    
 Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
 _DataPlat@ICDE 2024_
--->
 
 [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/pdf/2306.14003.pdf)       
 Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
 _KDD 2023_    
 \[[code](https://github.com/yuzhimanhua/FUTEX)\]
 
-<!--
 [A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting](https://arxiv.org/pdf/2109.01657.pdf)    
 Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
 _TKDE 2022_
--->
 
 [MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information](https://arxiv.org/pdf/2111.04022.pdf)    
 Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
 _WSDM 2022_    
 \[[code](https://github.com/yuzhimanhua/MotifClass)\]
 
-<!--
 [COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
 Jyun-Yu Jiang, Yichao Zhou, **Xiusi Chen**, Yan-Ru Jhou, Liqi Zhao, Sabrina Liu, Po-Chun Yang, Jule Ahmar, Wei Wang    
 _Philosophical Transactions A, 2022_
@@ -227,14 +223,12 @@ _ICWSM 2021_
 [The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting](https://dl.acm.org/doi/10.1145/3450528)    
 Jinliang Deng, **Xiusi Chen**, Zipei Fan, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
 _TKDD 2021_
--->
 
 [Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/pdf/2010.13556)    
 Yu Zhang, **Xiusi Chen**, Yu Meng, Jiawei Han    
 _WSDM 2021_    
 \[[code](https://github.com/yuzhimanhua/HIMECat)\]
 
-<!--
 [Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
 Ruirui Li, Xian Wu, **Xiusi Chen**, Wei Wang    
 _WWW 2020_
@@ -243,9 +237,7 @@ _WWW 2020_
 Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han    
 _ICDM 2018_    
 \[[code](https://github.com/fangbo-tao/doc2cube)\]
--->
 
-<!--
 [TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)    
 Chao Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han     
 _KDD 2018_    
