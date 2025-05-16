@@ -63,7 +63,7 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & A
 [RM-R1: Reward Modeling as Reasoning](https://arxiv.org/pdf/2505.02387)    
 **Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru WANG, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
 _ArXiv 2025_    
-\[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[dataset \& model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]
+\[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
