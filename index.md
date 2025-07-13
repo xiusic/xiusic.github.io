@@ -5,7 +5,7 @@
 
 ## Contact
 Email: xiusic [AT] illinois [DOT] edu    
-Office: 4101 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801    
+Office: 4211 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801    
 
 <!-- ## What's New
 2018-09-10 Start my Ph.D. journey @ UCLA!
@@ -135,34 +135,15 @@ Thesis Committee: Wei Wang, Yizhou Sun, Kai-Wei Chang, P. Jefferey Brantingham
 _Ph.D. Thesis, UCLA, 2024_
 -->
 
-[Large Scale Knowledge Washing](https://arxiv.org/pdf/2405.16720)    
-Yu Wang, Ruihan Wu, Zexue He, **Xiusi Chen**, Julian McAuley    
-_ICLR 2025_    
-\[[code](https://github.com/wangyu-ustc/LargeScaleWashing)\]    
-
-[Self-Updatable Large Language Models with Parameter Integration](https://arxiv.org/pdf/2410.00487)    
-Yu Wang, Xinshuang Liu, **Xiusi Chen**, Sean O'Brien, Junda Wu, Julian McAuley    
-_ICLR 2025_    
-\[[code]()\]  
-
 [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
 _ICLR 2025_    
 \[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\] 
 
-[Towards LifeSpan Cognitive Systems](https://arxiv.org/pdf/2409.13265)    
-Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, **Xiusi Chen**, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley    
-_TMLR 2025_
-
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
 _WWW 2025_    
 \[[code](https://github.com/yuzhimanhua/CoF)\]
-
-[MemoryLLM: Toward Self-Updating Large Language Models](https://arxiv.org/pdf/2402.04624)    
-Yu Wang, Yifan Gao, **Xiusi Chen**, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley    
-_ICML 2024_    
-\[[code](https://github.com/wangyu-ustc/MemoryLLM)\]
 
 [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815)    
 Bowen Jin, Hansi Zeng, Guoyin Wang, **Xiusi Chen**, Tianxin Wei, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang    
