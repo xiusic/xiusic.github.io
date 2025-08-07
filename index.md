@@ -159,8 +159,8 @@ _COLM 2024_
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 _ArXiv 2024_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">150+ stars on Github</span>    
-<span style="color:red">400k+ downloads on HuggingFace</span>
+<span style="color:red">200+ stars on Github</span>    
+<span style="color:red">500k+ downloads on HuggingFace</span>
 
 <!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
@@ -247,7 +247,7 @@ _US Patent App. 17/060,850_
 
 ## Academic Service
 **Workshop Organizer**    
-_KDD 2025 workshop on Structured Knowledge for Large Language Models(https://sknowllm.github.io/index.html)_    
+[_KDD 2025 workshop on Structured Knowledge for Large Language Models_](https://sknowllm.github.io/index.html)    
 
 **Conference Program Committee**        
 _KDD 2020-2025; WSDM 2022-2025; WWW 2024; SSL@WWW 2021_;    
