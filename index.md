@@ -53,7 +53,7 @@ My ultimate research goal is to build automated language agents that can assist 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
 ### Invited Talks
-Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote talk at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
+Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote Talk at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
 May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
 Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP about [LLM Reasoning & Alignment](papers/uiuc_nlp_10.25.2024.pdf)    
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & Alignment](papers/DARPA_talk.pdf)    
@@ -91,7 +91,7 @@ _CIKM 2024_
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024_     
 \[[repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
-<span style="color:red">550+ stars on GitHub</span>
+<span style="color:red">600+ stars on GitHub</span>
 
 [Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitesh V. Chawla    
