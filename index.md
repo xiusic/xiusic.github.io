@@ -69,7 +69,7 @@ _ArXiv 2025_
 
 [DecisionFlow: Advancing Large Language Model as Principled Decision Maker](https://arxiv.org/pdf/2505.21397)    
 **Xiusi Chen**\*, Shanyong Wang\*, Cheng Qian\*, Hongru WANG\*, Peixuan Han, Heng Ji   
-_ArXiv 2025_    
+_EMNLP 2025 Findings_    
 \[[code](https://github.com/xiusic/DecisionFlow)\]    
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
