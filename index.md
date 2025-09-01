@@ -52,6 +52,8 @@ My ultimate research goal is to build automated language agents that can assist 
 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
+<span style="color:red"> I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at xiusic[AT]illinois.edu</span>
+
 ### Invited Talks
 Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote Talk at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
 May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
