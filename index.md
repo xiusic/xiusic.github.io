@@ -251,10 +251,11 @@ _US Patent App. 17/060,850_
 ## Academic Service
 **Workshop Organizer**    
 [_KDD 2025 workshop on Structured Knowledge for Large Language Models_](https://sknowllm.github.io/index.html)    
+Co-organizer of [UIUC-NLP Seminar series](https://docs.google.com/spreadsheets/d/1LEzop096QH4OOwHE-5eqyuG9d5a8nCiILZhhYlJhXIE/edit?usp=sharing)    
 
 **Conference Program Committee**        
-_ICML 2023-2025; NeurIPS 2022-2025; ICLR 2022-2026; AAAI 2021-2024; IJCAI-ECAI 2022-2023_;    
-_KDD 2020-2025; WSDM 2022-2025; WWW 2024_    
+_ICML 2023-2025; NeurIPS 2022-2025; ICLR 2022-2026; AAAI 2021-2024; IJCAI-ECAI 2022-2023;_    
+_KDD 2020-2025; WSDM 2022-2025; WWW 2024;_    
 _ACL Rolling Review_    
 
 **Journal Reviewer**    
