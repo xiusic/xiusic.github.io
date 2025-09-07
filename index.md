@@ -38,11 +38,11 @@ Office: 4211 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 
 ## Bio
 I am a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/) (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research mainly aims at improving reasoning, alignment, and decision-making of Large Language Models (LLMs).
 
-I completed my Ph.D. in Computer Science at [University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my M.S. and B.S. in Computer Science from [Peking University](https://cs.pku.edu.cn/English/Home.htm), advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer. During Ph.D., I spent two summers at Amazon Science and one summer at NEC Labs America.
+I completed my Ph.D. in Computer Science at [University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my B.S. in Computer Science from [Peking University](https://cs.pku.edu.cn/English/Home.htm), advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer. During Ph.D., I spent two summers at Amazon Science and one summer at NEC Labs America.
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
-My CV is available [here](CV.pdf). My pronouns are He/Him/His.
+My CV is available [here](CV.pdf).
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
@@ -55,8 +55,9 @@ My ultimate research goal is to build automated language agents that can assist 
 <span style="color:red"> I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at xiusic[AT]illinois.edu</span>
 
 ### Invited Talks
-Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote Talk at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
-May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conference Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
+Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
+Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at [DARPA ITM](https://www.darpa.mil/research/programs/in-the-moment) August 2025 PI Meeting    
+May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
 Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP about [LLM Reasoning & Alignment](papers/uiuc_nlp_10.25.2024.pdf)    
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & Alignment](papers/DARPA_talk.pdf)    
 
@@ -252,12 +253,9 @@ _US Patent App. 17/060,850_
 [_KDD 2025 workshop on Structured Knowledge for Large Language Models_](https://sknowllm.github.io/index.html)    
 
 **Conference Program Committee**        
-_KDD 2020-2025; WSDM 2022-2025; WWW 2024; SSL@WWW 2021_;    
-_ICML 2023-2024; NeurIPS 2022-2024; ICLR 2022-2024; AAAI 2021-2024; IJCAI-ECAI 2022-2023_;    
+_ICML 2023-2025; NeurIPS 2022-2025; ICLR 2022-2026; AAAI 2021-2024; IJCAI-ECAI 2022-2023_;    
+_KDD 2020-2025; WSDM 2022-2025; WWW 2024_    
 _ACL Rolling Review_    
-
-**Conference Subreviewer**    
-_KDD 2018, CIKM 2018, WISE 2018, IJCAI 2019_
 
 **Journal Reviewer**    
 _IEEE Transactions on Big Data (TBD)_.
