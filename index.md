@@ -120,13 +120,15 @@ _CIKM 2022_
 
 [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/pdf/2504.13958)    
 Cheng Qian, Emre Can Acikgoz, Qi He, Hongru Wang, **Xiusi Chen**, Dilek Hakkani-Tür, Gokhan Tur, Heng Ji    
-_ArXiv 2025_    
+_NeurIPS 2026_    
 \[[code](https://github.com/qiancheng0/ToolRL)\]
 
+<!--
 [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870)    
 Hongru Wang, Cheng Qian, Wanjun Zhong, **Xiusi Chen**, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji    
 _ArXiv 2025_    
 \[[code]()\]
+-->
 
 [EscapeBench: Pushing Language Models to Think Outside the Box](https://arxiv.org/pdf/2412.13549)    
 Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji    
