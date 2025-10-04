@@ -71,6 +71,11 @@ _ArXiv 2025_
 \[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
 <span style="color:red">100+ stars on GitHub</span>
 
+[Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](https://arxiv.org/pdf/2510.00526)    
+Gaotang Li\*, Ruizhong Qiu\*, **Xiusi Chen**\*, Heng Ji, Hanghang Tong    
+_ArXiv 2025_    
+\[[code](https://github.com/GaotangLi/Beyond-Log-Likelihood)\]    
+
 [DecisionFlow: Advancing Large Language Model as Principled Decision Maker](https://arxiv.org/pdf/2505.21397)    
 **Xiusi Chen**\*, Shanyong Wang\*, Cheng Qian\*, Hongru WANG\*, Peixuan Han, Heng Ji   
 _EMNLP 2025 Findings_    
