@@ -262,9 +262,12 @@ _US Patent App. 17/060,850_
 Co-organizer of [UIUC-NLP Seminar series](https://docs.google.com/spreadsheets/d/1LEzop096QH4OOwHE-5eqyuG9d5a8nCiILZhhYlJhXIE/edit?usp=sharing)    
 
 **Conference Program Committee**        
+**Area Chair**        
+_ACL Rolling Review_    
+**Reviewer**        
 _ICML 2023-2025; NeurIPS 2022-2025; ICLR 2022-2026; AAAI 2021-2024; IJCAI-ECAI 2022-2023;_    
 _KDD 2020-2025; WSDM 2022-2025; WWW 2024;_    
-_ACL Rolling Review_    
+
 
 **Journal Reviewer**    
 _IEEE Transactions on Big Data (TBD)_.
