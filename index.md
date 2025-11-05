@@ -55,6 +55,7 @@ My ultimate research goal is to build automated language agents that can assist 
 <span style="color:red"> I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at xiusic[AT]illinois.edu</span>
 
 ### Invited Talks
+Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Northeastern University about [Agentic Post-Training Data and Algorithms](papers/NEU_seminar.pdf)    
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at CS6320 Natural Language Processing, UT Dallas about [Post-Training Data and Algorithms for LLM Agents](papers/UTD_guest.pdf)    
 Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;Talk at ByteDance Seed Research about [Post-Training Data and Algorithms for LLM Agents](papers/ByteDance_Talk.pdf)    
 Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/) about [LLM Reasoning & Alignment](papers/keynote_LLMEcommerce.pdf)    
