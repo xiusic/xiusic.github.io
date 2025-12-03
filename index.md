@@ -260,6 +260,7 @@ _US Patent App. 17/060,850_
 
 ## Academic Service
 **Workshop Organizer**    
+[_ACL 2026 workshop SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era_](https://surgellm-acl.github.io/)    
 [_KDD 2025 workshop on Structured Knowledge for Large Language Models_](https://sknowllm.github.io/index.html)    
 Co-organizer of [UIUC-NLP Seminar series](https://docs.google.com/spreadsheets/d/1LEzop096QH4OOwHE-5eqyuG9d5a8nCiILZhhYlJhXIE/edit?usp=sharing)    
 
