@@ -153,7 +153,7 @@ _Ph.D. Thesis, UCLA, 2024_
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
 _ICLR 2025_    
 \[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\]    
-Covered by [State of AI Report 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/edit#slide=id.g2d35a16f27e_0_24), published by [Air Street Capital](https://www.stateof.ai/).
+Covered by <span style="color:red">[State of AI Report 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/edit#slide=id.g2d35a16f27e_0_24)</span>, published by <span style="color:red">[Air Street Capital](https://www.stateof.ai/2024)</span>.    
 
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
