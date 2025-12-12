@@ -127,7 +127,7 @@ _CIKM 2022_
 
 [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/pdf/2504.13958)    
 Cheng Qian, Emre Can Acikgoz, Qi He, Hongru Wang, **Xiusi Chen**, Dilek Hakkani-Tür, Gokhan Tur, Heng Ji    
-_NeurIPS 2026_    
+_NeurIPS 2025_    
 \[[code](https://github.com/qiancheng0/ToolRL)\]
 
 <!--
@@ -152,7 +152,8 @@ _Ph.D. Thesis, UCLA, 2024_
 [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
 _ICLR 2025_    
-\[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\] 
+\[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\]    
+Covered by [State of AI Report 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/edit#slide=id.g2d35a16f27e_0_24), published by [Air Street Capital](https://www.stateof.ai/).
 
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
