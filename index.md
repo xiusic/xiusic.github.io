@@ -68,7 +68,7 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & A
 #### ("\*" marks equal contribution.)
 
 [RM-R1: Reward Modeling as Reasoning](https://arxiv.org/pdf/2505.02387)    
-**Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru WANG, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
+**Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
 _ICLR 2026_    
 \[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
 <span style="color:red">150+ stars on GitHub</span>
