@@ -46,7 +46,7 @@ My CV is available [here](CV.pdf).
 
 ## Research Interests
 My ultimate research goal is to build automated language agents that can assist human in a variety of domains. To achieve this goal, I worked on:    
-*    **Large Language Models**, especially low-resource LLM reasoning ([_ACL'24_](https://arxiv.org/pdf/2310.05007.pdf), [_ICML'24a_](https://arxiv.org/pdf/2402.04624), [_ICLR'25a_](https://arxiv.org/pdf/2410.00487), [_COLM'24_](https://arxiv.org/pdf/2401.13849), [_SDM'23_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102), [_WSDM'24_](https://arxiv.org/pdf/2402.04616.pdf)) and alignment ([_NAACL'24_](https://arxiv.org/pdf/2403.18341.pdf));    
+*    **Large Language Models**, especially low-resource LLM reasoning ([_ACL'24_](https://arxiv.org/pdf/2310.05007.pdf), [_ICML'24a_](https://arxiv.org/pdf/2402.04624), [_ICLR'25a_](https://arxiv.org/pdf/2410.00487), [_COLM'24_](https://arxiv.org/pdf/2401.13849), [_SDM'23_](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102), [_WSDM'24_](https://arxiv.org/pdf/2402.04616.pdf)) and alignment ([_ICLR'26_](https://arxiv.org/pdf/2505.02387), [_NAACL'24_](https://arxiv.org/pdf/2403.18341.pdf));    
 *    **NLP Applications**, especially in AI for Science, IR and recommendation ([_EMNLP'24_](https://arxiv.org/pdf/2406.10833), [_ICML'24b_](https://arxiv.org/pdf/2310.07815), [_CIKM'22a_](papers/cikm_b.pdf), [_Amazon Reviews'23 dataset_](https://arxiv.org/pdf/2403.03952));    
 *    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain ([_CIKM'22b_](papers/cikm_a.pdf), [_CIKM'24_](https://arxiv.org/pdf/2306.04090.pdf), [_ICLR'25b_](https://arxiv.org/pdf/2408.10635), [_Arxiv'24_](https://arxiv.org/pdf/2412.13549), [_Arxiv'25_](https://arxiv.org/pdf/2502.11435)).
 
@@ -70,18 +70,18 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & A
 [RM-R1: Reward Modeling as Reasoning](https://arxiv.org/pdf/2505.02387)    
 **Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
 _ICLR 2026_    
-\[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
+\[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[project page](https://rm-r1-uiuc.github.io/rmr1-site/)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
 <span style="color:red">150+ stars on GitHub</span>
+
+[DecisionFlow: Advancing Large Language Model as Principled Decision Maker](https://arxiv.org/pdf/2505.21397)    
+**Xiusi Chen**\*, Shanyong Wang\*, Cheng Qian\*, Hongru WANG\*, Peixuan Han, Heng Ji   
+_EMNLP 2025 Findings_    
+\[[code](https://github.com/xiusic/DecisionFlow)\]\[[project page](https://decisionflow-uiuc.github.io/)\]    
 
 [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](https://arxiv.org/pdf/2510.00526)    
 Gaotang Li\*, Ruizhong Qiu\*, **Xiusi Chen**\*, Heng Ji, Hanghang Tong    
 _ArXiv 2025_    
 \[[code](https://github.com/GaotangLi/Beyond-Log-Likelihood)\]    
-
-[DecisionFlow: Advancing Large Language Model as Principled Decision Maker](https://arxiv.org/pdf/2505.21397)    
-**Xiusi Chen**\*, Shanyong Wang\*, Cheng Qian\*, Hongru WANG\*, Peixuan Han, Heng Ji   
-_EMNLP 2025 Findings_    
-\[[code](https://github.com/xiusic/DecisionFlow)\]    
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
 **Xiusi Chen**, Jyun-Yu Jiang, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu and Wei Wang     
@@ -101,7 +101,7 @@ _CIKM 2024_
 [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)    
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024_     
-\[[repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
+\[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
 <span style="color:red">600+ stars on GitHub</span>
 
 [Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2402.04616.pdf)    
@@ -173,8 +173,8 @@ _COLM 2024_
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 _ArXiv 2024_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">200+ stars on Github</span>    
-<span style="color:red">500k+ downloads on HuggingFace</span>
+<span style="color:red">250+ stars on Github</span>    
+<span style="color:red">800k+ downloads on HuggingFace</span>
 
 <!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
