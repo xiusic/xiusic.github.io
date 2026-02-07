@@ -55,6 +55,7 @@ My ultimate research goal is to build automated language agents that can assist 
 <span style="color:red"> I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at xiusic[AT]illinois.edu</span>
 
 ### Invited Talks
+Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at The Chinese University of Hong Kong about [Agentic Post-Training Data and Algorithms](papers/NEU_seminar.pdf)    
 Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Northeastern University about [Agentic Post-Training Data and Algorithms](papers/NEU_seminar.pdf)    
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at CS6320 Natural Language Processing, UT Dallas about [Post-Training Data and Algorithms for LLM Agents](papers/UTD_guest.pdf)    
 Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;Talk at ByteDance Seed Research about [Post-Training Data and Algorithms for LLM Agents](papers/ByteDance_Talk.pdf)    
@@ -71,7 +72,9 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & A
 **Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
 _ICLR 2026_    
 \[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[project page](https://rm-r1-uiuc.github.io/rmr1-site/)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
-<span style="color:red">150+ stars on GitHub</span>
+<span style="color:red">150+ stars on GitHub</span>    
+<span style="color:red"> Featured in the  <a href="https://github.com/verl-project/verl?tab=readme-ov-file#awesome-projects-built-with-verl" target="_blank" style="color:red; text-decoration:none;"> Verl GitHub repo </a>
+</span>
 
 [DecisionFlow: Advancing Large Language Model as Principled Decision Maker](https://arxiv.org/pdf/2505.21397)    
 **Xiusi Chen**\*, Shanyong Wang\*, Cheng Qian\*, Hongru WANG\*, Peixuan Han, Heng Ji   
