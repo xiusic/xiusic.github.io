@@ -96,11 +96,6 @@ _ACL 2024_
 _NAACL 2024_     
 \[[code](https://github.com/xiusic/IterAlign)\]
 
-[PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
-**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
-_CIKM 2024_    
-\[[code](https://github.com/xiusic/diffuser_bball)\]
-
 [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)    
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024_     
@@ -111,6 +106,11 @@ _EMNLP 2024_
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitesh V. Chawla    
 _WSDM 2025_    
 \[[code](https://github.com/YikunHan42/TinyLLM)\]
+
+[PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion](https://arxiv.org/pdf/2306.04090.pdf)    
+**Xiusi Chen**, Wei-Yao Wang, Ziniu Hu, David Reynoso, Kun Jin, Mingyan Liu, P. Jeffrey Brantingham, Wei Wang     
+_CIKM 2024_    
+\[[code](https://github.com/xiusic/diffuser_bball)\]
 
 [Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch102)    
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
