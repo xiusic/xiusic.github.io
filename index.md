@@ -85,7 +85,7 @@ _EMNLP 2025 Findings_
 
 [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](https://arxiv.org/pdf/2510.00526)    
 Gaotang Li\*, Ruizhong Qiu\*, **Xiusi Chen**\*, Heng Ji, Hanghang Tong    
-_ICML 2026 (spotlight)_    
+_ICML 2026 <span style="color:red">(spotlight)</span>_    
 \[[code](https://github.com/GaotangLi/Beyond-Log-Likelihood)\]    
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
@@ -176,7 +176,7 @@ _COLM 2024_
 
 [Bridging Language and Items for Retrieval and Recommendation](https://arxiv.org/pdf/2403.03952) (**Amazon Reviews 2023**)    
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
-_ArXiv 2024_    
+_ACL 2026_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
 <span style="color:red">250+ stars on Github</span>    
 <span style="color:red">800k+ downloads on HuggingFace</span>
