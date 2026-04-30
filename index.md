@@ -85,7 +85,7 @@ _EMNLP 2025 Findings_
 
 [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](https://arxiv.org/pdf/2510.00526)    
 Gaotang Li\*, Ruizhong Qiu\*, **Xiusi Chen**\*, Heng Ji, Hanghang Tong    
-_ArXiv 2025_    
+_ICML 2026 (spotlight)_    
 \[[code](https://github.com/GaotangLi/Beyond-Log-Likelihood)\]    
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
