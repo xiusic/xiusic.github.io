@@ -4,7 +4,7 @@
 <!-- Photo credit: [Chao Zhang](http://chaozhang.org/) -->
 
 ## Contact
-Email: xiusic [AT] illinois [DOT] edu    
+Email: xiusi0721 [AT] gmail [DOT] com; xiusic [AT] illinois [DOT] edu    
 Office: 4211 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801    
 
 <!-- ## What's New
@@ -36,7 +36,9 @@ Office: 4211 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 
  -->
 
 ## Bio
-I am a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/) (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research mainly aims at improving reasoning, alignment, and decision-making of Large Language Models (LLMs).
+<span style="color:red">Starting Fall 2027, I will be a tenure-track Assistant Professor in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). I am actively looking for students and collaborators. If you are interested, please send me an email titled [PhD/RA/Intern + Year] along with your CV and transcript.</span> 
+
+Before joining CUHK CSE, I was a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/) (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
 
 I completed my Ph.D. in Computer Science at [University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my B.S. in Computer Science from [Peking University](https://cs.pku.edu.cn/English/Home.htm), advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). During Ph.D., I spent two summers at Amazon Science and one summer at NEC Labs America.
 <!-- I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer. -->
@@ -57,15 +59,18 @@ My ultimate research goal is to build automated language agents that can assist 
 <span style="color:red"> I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at xiusic[AT]illinois.edu</span>
 
 ### Invited Talks
-Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at The Chinese University of Hong Kong about [Agentic Post-Training Data and Algorithms](papers/NEU_seminar.pdf)    
-Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Northeastern University about [Agentic Post-Training Data and Algorithms](papers/NEU_seminar.pdf)    
-Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at CS6320 Natural Language Processing, UT Dallas about [Post-Training Data and Algorithms for LLM Agents](papers/UTD_guest.pdf)    
-Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;Talk at ByteDance Seed Research about [Post-Training Data and Algorithms for LLM Agents](papers/ByteDance_Talk.pdf)    
-Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/) about [LLM Reasoning & Alignment](papers/keynote_LLMEcommerce.pdf)    
+May 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at Northwastern University    
+Apr 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Texas A\&M University    
+Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at University of Wisconsin - Madison    
+Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at The Chinese University of Hong Kong    
+Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Northeastern University    
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at CS6320 Natural Language Processing, UT Dallas    
+Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;Talk at ByteDance Seed Research    
+Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
 Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at [DARPA ITM](https://www.darpa.mil/research/programs/in-the-moment) August 2025 PI Meeting    
-May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tutorial at NAACL 2025 about [LLM Alignment for Copyright Risk Mitigation](papers/naacl25_tutorial.pdf)    
-Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP about [LLM Reasoning & Alignment](papers/uiuc_nlp_10.25.2024.pdf)    
-July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & Alignment](papers/DARPA_talk.pdf)    
+May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tutorial at NAACL 2025    
+Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP    
+July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Talk at UCSD CSE    
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=JqGAil4AAAAJ&view_op=list_works&sortby=pubdate)]
 #### ("\*" marks equal contribution.)
@@ -74,8 +79,8 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UCSD CSE about [LLM Reasoning & A
 **Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
 _ICLR 2026_    
 \[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[project page](https://rm-r1-uiuc.github.io/rmr1-site/)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
-<span style="color:red">150+ stars on GitHub</span>    
-<span style="color:red"> Featured in the  <a href="https://github.com/verl-project/verl?tab=readme-ov-file#awesome-projects-built-with-verl" target="_blank" style="color:red; text-decoration:none;" class="bold-link"> <b> Verl GitHub repo </b> </a>
+<span style="color:#ad1457; font-weight:bold;"> 160+ stars on GitHub</span>    
+<span style="color:#ad1457; font-weight:bold;"> Featured in the  <a href="https://github.com/verl-project/verl?tab=readme-ov-file#awesome-projects-built-with-verl" target="_blank" style="color:red; text-decoration:none;" class="bold-link"> <b> Verl GitHub repo </b> </a>
 </span>
 
 [DecisionFlow: Advancing Large Language Model as Principled Decision Maker](https://arxiv.org/pdf/2505.21397)    
@@ -118,7 +123,7 @@ _CIKM 2024_
 **Xiusi Chen**, Yu Zhang, Jinliang Deng, Jyun-Yu Jiang and Wei Wang  
 _SDM 2023_     
 \[[code](https://github.com/xiusic/Gotta)\]     
-<span style="color:red">Best Poster Award (Honorable Mention), Regular Paper</span>
+<span style="color:#ad1457; font-weight:bold;">Best Poster Award (Honorable Mention), Regular Paper</span>
 
 [Scalable Graph Representation Learning via Locality-Sensitive Hashing](papers/cikm_b.pdf)   
 **Xiusi Chen**, Jyun-Yu Jiang and Wei Wang    
@@ -158,7 +163,7 @@ _Ph.D. Thesis, UCLA, 2024_
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
 _ICLR 2025_    
 \[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\]    
-Covered by <span style="color:red">[State of AI Report 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/edit#slide=id.g2d35a16f27e_0_24)</span>, published by <span style="color:red">[Air Street Capital](https://www.stateof.ai/2024)</span>.    
+Covered by <span style="color:#ad1457; font-weight:bold;">[State of AI Report 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/edit#slide=id.g2d35a16f27e_0_24)</span>, published by <span style="color:#ad1457; font-weight:bold;">[Air Street Capital](https://www.stateof.ai/2024)</span>.    
 
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
 Yu Zhang, Yanzhen Shen, SeongKu Kang, **Xiusi Chen**, Bowen Jin, Jiawei Han    
@@ -178,8 +183,8 @@ _COLM 2024_
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 _ACL 2026_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:red">250+ stars on Github</span>    
-<span style="color:red">800k+ downloads on HuggingFace</span>
+<span style="color:#ad1457; font-weight:bold;">280+ stars on Github</span>    
+<span style="color:#ad1457; font-weight:bold;">1.1M+ downloads on HuggingFace</span>
 
 <!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
