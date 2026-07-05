@@ -56,11 +56,9 @@ My ultimate research goal is to build automated language agents that can assist 
 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
 
-<span style="color:red"> I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at xiusic[AT]illinois.edu</span>
-
 ### Invited Talks
 May 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at Northwastern University    
-Apr 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Texas A\&M University    
+Apr 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Texas A&M University    
 Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at University of Wisconsin - Madison    
 Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at The Chinese University of Hong Kong    
 Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Northeastern University    
@@ -80,7 +78,7 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Talk at UCSD CSE
 _ICLR 2026_    
 \[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[project page](https://rm-r1-uiuc.github.io/rmr1-site/)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
 <span style="color:#ad1457; font-weight:bold;"> 160+ stars on GitHub</span>    
-<span style="color:#ad1457; font-weight:bold;"> Featured in the  <a href="https://github.com/verl-project/verl?tab=readme-ov-file#awesome-projects-built-with-verl" target="_blank" style="color:red; text-decoration:none;" class="bold-link"> <b> Verl GitHub repo </b> </a>
+<span style="color:#ad1457; font-weight:bold;"> Featured in the  <a href="https://github.com/verl-project/verl?tab=readme-ov-file#awesome-projects-built-with-verl" target="_blank" style="color:#ad1457; text-decoration:none;" class="bold-link"> <b> Verl GitHub repo </b> </a>
 </span>
 
 [DecisionFlow: Advancing Large Language Model as Principled Decision Maker](https://arxiv.org/pdf/2505.21397)    
@@ -90,7 +88,7 @@ _EMNLP 2025 Findings_
 
 [Beyond Log Likelihood: Probability-Based Objectives for Supervised Fine-Tuning across the Model Capability Continuum](https://arxiv.org/pdf/2510.00526)    
 Gaotang Li\*, Ruizhong Qiu\*, **Xiusi Chen**\*, Heng Ji, Hanghang Tong    
-_ICML 2026 <span style="color:red">(spotlight)</span>_    
+_ICML 2026 <span style="color:#ad1457; font-weight:bold;">(spotlight)</span>_    
 \[[code](https://github.com/GaotangLi/Beyond-Log-Likelihood)\]    
 
 [MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering](https://arxiv.org/pdf/2310.05007.pdf)    
@@ -107,7 +105,7 @@ _NAACL 2024_
 Yu Zhang\*, **Xiusi Chen**\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han    
 _EMNLP 2024_     
 \[[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)\]    
-<span style="color:red">600+ stars on GitHub</span>
+<span style="color:#ad1457; font-weight:bold;">660+ stars on GitHub</span>
 
 [Beyond Answers: Transferring Reasoning Capabilities to Smaller LLMs Using Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2402.04616.pdf)    
 Yijun Tian\*, Yikun Han\*, **Xiusi Chen**\*, Wei Wang, Nitesh V. Chawla    
