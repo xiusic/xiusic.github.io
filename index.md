@@ -54,7 +54,7 @@ My ultimate research goal is to build automated language agents that can assist 
 *    **NLP Applications**, especially in AI for Science, IR and recommendation ([_EMNLP'24_](https://arxiv.org/pdf/2406.10833), [_ICML'24b_](https://arxiv.org/pdf/2310.07815), [_CIKM'22a_](papers/cikm_b.pdf), [_Amazon Reviews'23 dataset_](https://arxiv.org/pdf/2403.03952));    
 *    **Complex Dynamics Modeling and Decision Making**, especially the planning tasks in sports domain ([_CIKM'22b_](papers/cikm_a.pdf), [_CIKM'24_](https://arxiv.org/pdf/2306.04090.pdf), [_ICLR'25b_](https://arxiv.org/pdf/2408.10635), [_Arxiv'24_](https://arxiv.org/pdf/2412.13549), [_Arxiv'25_](https://arxiv.org/pdf/2502.11435)).
 
-**To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
+**To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly.
 
 ### Invited Talks
 May 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at Northwastern University    
