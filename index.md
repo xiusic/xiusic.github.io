@@ -4,7 +4,7 @@
 <!-- Photo credit: [Chao Zhang](http://chaozhang.org/) -->
 
 ## Contact
-Email: xiusi0721 [AT] gmail [DOT] com; xiusic [AT] illinois [DOT] edu    
+Email: xiusichen [AT] cse.cuhk.edu.hk; xiusi0721 [AT] gmail.com; xiusic [AT] illinois.edu    
 Office: 4211 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801    
 
 <!-- ## What's New
@@ -57,7 +57,7 @@ My ultimate research goal is to build automated language agents that can assist 
 **To junior Ph.D./master/undergraduate students:** If you would like to chat about your career plan or research ideas related to my research interests, please email me to schedule a meeting. I will dedicate 30 minutes to each meeting weekly.
 
 ### Invited Talks
-May 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at Northwastern University    
+May 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at Northwestern University    
 Apr 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Texas A&M University    
 Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at University of Wisconsin - Madison    
 Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at The Chinese University of Hong Kong    
