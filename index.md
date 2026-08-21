@@ -136,7 +136,8 @@ _CIKM 2022_
 [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/pdf/2504.13958)    
 Cheng Qian, Emre Can Acikgoz, Qi He, Hongru Wang, **Xiusi Chen**, Dilek Hakkani-Tür, Gokhan Tur, Heng Ji    
 _NeurIPS 2025_    
-\[[code](https://github.com/qiancheng0/ToolRL)\]
+\[[code](https://github.com/qiancheng0/ToolRL)\]    
+<span style="color:#ad1457; font-weight:bold;"> 500+ stars on GitHub</span>    
 
 <!--
 [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870)    
@@ -181,8 +182,8 @@ _COLM 2024_
 Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley    
 _ACL 2026_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
-<span style="color:#ad1457; font-weight:bold;">280+ stars on Github</span>    
-<span style="color:#ad1457; font-weight:bold;">1.1M+ downloads on HuggingFace</span>
+<span style="color:#ad1457; font-weight:bold;">290+ stars on Github</span>    
+<span style="color:#ad1457; font-weight:bold;">1.2M+ downloads on HuggingFace</span>
 
 <!--
 [Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
