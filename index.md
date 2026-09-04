@@ -8,41 +8,16 @@ Email: xiusichen [AT] cse.cuhk.edu.hk; xiusi0721 [AT] gmail.com; xiusic [AT] ill
 Office: 4211 Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801    
 
 <!-- ## What's New
-2018-09-10 Start my Ph.D. journey @ UCLA!
 
-2018-08-17 One paper got accepted by ICDM'18.
-
-2018-05-06 One paper got accepted by KDD'18.
-
-2018-11-09 One paper got accepted by AAAI'18.
-
-2017-10-01 Submitted one paper to ICDE'18.
-
-2017-09-12 Submitted two papers to AAAI'18.
-
-2017-04-12 Our paper on Index of distributed graph data processing systems was accepted by [NDBC 2017](http://www.cs.zju.edu.cn/ndbc2017/)! See you in Hangzhou this Autumn!
-
-2017-06-30 Visiting Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/)'s [TIMAN](http://sifaka.cs.uiuc.edu/ir/index.html) Group at CS@UIUC for 6 months.
-
-2017-05-23 Submitted one paper to CIKM'17.
-
-2016-09-26 Start my internship as a research intern at [Alibaba Group](http://www.alibabagroup.com/en/global/home)
-
-2016-04-12 Our paper on Semi-supervised advertisement detection was accepted by [NDBC 2016](http://csse.szu.edu.cn/ndbc2016/index.shtml)! See you in Shenzhen this Autumn!
-
-2015-07-06 I graduated from [Peking University](http://www.pku.edu.cn/) where I spent 4 wonderful years and made lots of great friends. I am grateful to Prof. [Jun Gao]() for his support throughout the years. [My thesis](papers/thesis.pdf)
-
-2014-10-26 I am honor to compete on behalf of Peking University at the 17th Chinese University Basketball Association (CUBA) Championships, Beijing Division. We are the 3rd Place!
  -->
 
 ## Bio
-<span style="color:red">Starting Fall 2027, I will be a tenure-track Assistant Professor in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). I am actively looking for students and collaborators. If you are interested, please send me an email titled [PhD/RA/Intern + Year] along with your CV and transcript.</span> 
+<span style="color:red">Starting Fall 2027, I will be a tenure-track Assistant Professor in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). I am actively looking for students and collaborators. If you are interested, please send me an email titled [PhD/Mphil/RA + Year] along with your CV and transcript.</span> 
 
-Before joining CUHK CSE, I was a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/) (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+I am a postdoctoral research fellow in [Blender Lab](https://blender.cs.illinois.edu/index.html) at [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/) (UIUC), working with Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
 
-I completed my Ph.D. in Computer Science at [University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my B.S. in Computer Science from [Peking University](https://cs.pku.edu.cn/English/Home.htm), advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). During Ph.D., I spent two summers at Amazon Science and one summer at NEC Labs America.
+I completed my Ph.D. in Computer Science at [University of California, Los Angeles](https://www.cs.ucla.edu/) (UCLA), advised by Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/). Before UCLA, I got my B.S. in Computer Science from [Peking University](https://cs.pku.edu.cn/English/Home.htm), advised by Prof. [Jun Gao](https://cs.pku.edu.cn/info/1214/1977.htm). During Ph.D., I spent two summers at Amazon Science.
 <!-- I also worked with Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/) at UIUC for a wonderful summer. -->
-
 
 I played for Peking University Men's Basketball Varsity Team, Division II, during college.
 
@@ -60,15 +35,16 @@ My ultimate research goal is to build automated language agents that can assist 
 May 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at Northwestern University    
 Apr 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Texas A&M University    
 Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at University of Wisconsin - Madison    
+Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Peking University    
 Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at The Chinese University of Hong Kong    
 Nov 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seminar Talk at Northeastern University    
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecture at CS6320 Natural Language Processing, UT Dallas    
-Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;Talk at ByteDance Seed Research    
-Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
+Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;Invited Talk at ByteDance Seed Research    
+Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keynote talk at [KDD 2025 Large Language Model For E-Commerce Workshop](https://kdd2025llm4ecommerce.github.io/schedule/)    
 Aug  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at [DARPA ITM](https://www.darpa.mil/research/programs/in-the-moment) August 2025 PI Meeting    
 May  2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tutorial at NAACL 2025    
 Oct  2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talk at UIUC-NLP    
-July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Talk at UCSD CSE    
+July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Talk at University of California, San Diego    
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=JqGAil4AAAAJ&view_op=list_works&sortby=pubdate)]
 #### ("\*" marks equal contribution.)
@@ -77,7 +53,7 @@ July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited Talk at UCSD CSE
 **Xiusi Chen**\*, Gaotang Li\*, Ziqi Wang\*, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji    
 _ICLR 2026_    
 \[[code](https://github.com/RM-R1-UIUC/RM-R1)\]\[[project page](https://rm-r1-uiuc.github.io/rmr1-site/)\]\[[dataset & model checkpoints](https://huggingface.co/collections/gaotang/rm-r1-681128cdab932701cad844c8)\]    
-<span style="color:#ad1457; font-weight:bold;"> 160+ stars on GitHub</span>    
+<span style="color:#ad1457; font-weight:bold;"> 170+ stars on GitHub</span>    
 <span style="color:#ad1457; font-weight:bold;"> Featured in the  <a href="https://github.com/verl-project/verl?tab=readme-ov-file#awesome-projects-built-with-verl" target="_blank" style="color:#ad1457; text-decoration:none;" class="bold-link"> <b> Verl GitHub repo </b> </a>
 </span>
 
@@ -151,13 +127,6 @@ Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, **Xiusi Chen**, Yuji Zhang, Ho
 _ACL 2025_    
 \[[code](https://github.com/qiancheng0/EscapeBench)\]
 
-<!--
-[One Step towards Autonomous AI Agent: Reasoning, Alignment and Planning](https://escholarship.org/uc/item/9qc7g63d)    
-**Xiusi Chen**    
-Thesis Committee: Wei Wang, Yizhou Sun, Kai-Wei Chang, P. Jefferey Brantingham    
-_Ph.D. Thesis, UCLA, 2024_
--->
-
 [Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search](https://arxiv.org/pdf/2408.10635)    
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
 _ICLR 2025_    
@@ -184,89 +153,6 @@ _ACL 2026_
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
 <span style="color:#ad1457; font-weight:bold;">290+ stars on Github</span>    
 <span style="color:#ad1457; font-weight:bold;">1.2M+ downloads on HuggingFace</span>
-
-<!--
-[Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10457027)    
-Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Du Yin, Yi Yang, Xuan Song, Ivor W. Tsang    
-_TKDE 2024_    
-\[[code](https://github.com/JLDeng/SCNN)\]
-
-[How the Experience of California Wildfires Shapes Twitter Climate Change Framings](https://link.springer.com/article/10.1007/s10584-023-03668-0)    
-Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, **Xiusi Chen**, Yicong Huang, Avinash Kumar, Sadeem Alsudais, Zuozhi Wang, Xiaozhen Liu, Wei Wang, Chen Li, Suellen Hopfer    
-_Climatic Change, 2024_
-
-[Data Science Tasks Using Scripts versus GUI-based Workflows: The Good, the Bad, and the Ugly]()    
-Alexander Taylor, Yicong Huang, Junheng Hao, Xinyuan Lin, **Xiusi Chen**, Wei Wang, Chen Li    
-_DataPlat@ICDE 2024_
-
-[Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/pdf/2306.14003.pdf)       
-Yu Zhang, Bowen Jin, **Xiusi Chen**, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han    
-_KDD 2023_    
-\[[code](https://github.com/yuzhimanhua/FUTEX)\]
-
-[A Multi-view Multi-task Learning Framework for Multi-variate Time Series Forecasting](https://arxiv.org/pdf/2109.01657.pdf)    
-Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song and Ivor W. Tsang   
-_TKDE 2022_
-
-[MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information](https://arxiv.org/pdf/2111.04022.pdf)    
-Yu Zhang\*, Shweta Garg\*, Yu Meng, **Xiusi Chen** and Jiawei Han    
-_WSDM 2022_    
-\[[code](https://github.com/yuzhimanhua/MotifClass)\]
-
-[COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining](https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2021.0125)    
-Jyun-Yu Jiang, Yichao Zhou, **Xiusi Chen**, Yan-Ru Jhou, Liqi Zhao, Sabrina Liu, Po-Chun Yang, Jule Ahmar, Wei Wang    
-_Philosophical Transactions A, 2022_
-
-[\#StayHome or \#Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs](https://dl.acm.org/doi/pdf/10.1145/3459637.3482222)    
-Yichao Zhou, Jyun-Yu Jiang, **Xiusi Chen** and Wei Wang    
-_CIKM 2021_    
-\[[code](https://github.com/joey1993/pandemic-forecast)\]
-
-[ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467330)    
-Jinliang Deng, **Xiusi Chen**, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
-_KDD 2021_    
-\[[code](https://github.com/JLDeng/ST-Norm)\]
-
-[Evaluating audience loyalty and authenticity in influencer marketing via multi-task multi-relational learning](https://ojs.aaai.org/index.php/ICWSM/article/view/18060/17863)    
-Seungbae Kim, **Xiusi Chen**, Jyun-Yu Jiang, Jinyoung Han, and Wei Wang    
-_ICWSM 2021_
-
-[The Pulse of Urban Transport: Exploring the Co-evolving Pattern for Spatio-temporal Forecasting](https://dl.acm.org/doi/10.1145/3450528)    
-Jinliang Deng, **Xiusi Chen**, Zipei Fan, Renhe Jiang, Xuan Song, and Ivor W. Tsang    
-_TKDD 2021_
-
-[Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/pdf/2010.13556)    
-Yu Zhang, **Xiusi Chen**, Yu Meng, Jiawei Han    
-_WSDM 2021_    
-\[[code](https://github.com/yuzhimanhua/HIMECat)\]
-
-[Self-Attentive Few-Shot Learning for New User Recommendation in Location-based Social Networks](https://dl.acm.org/doi/pdf/10.1145/3366423.3379994)    
-Ruirui Li, Xian Wu, **Xiusi Chen**, Wei Wang    
-_WWW 2020_
-
-[Doc2Cube: Allocating Documents to Text Cube without Labeled Data](http://chaozhang.org/papers/icdm18.pdf)    
-Fangbo Tao\*, Chao Zhang\*, **Xiusi Chen**, Meng Jiang, Tim Hanratty, Lance Kaplan, Jiawei Han    
-_ICDM 2018_    
-\[[code](https://github.com/fangbo-tao/doc2cube)\]
-
-[TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering](http://delivery.acm.org/10.1145/3230000/3220064/p2701-zhang.pdf?ip=131.179.49.186&id=3220064&acc=ACTIVE%20SERVICE&key=CA367851C7E3CE77%2E79535EF926D6BC05%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543628672_ac235d30fba1750ceaae158e46248e19)    
-Chao Zhang, Fangbo Tao, **Xiusi Chen**, Jiaming Shen, Meng Jiang, Brian Sadler, Michelle Vanni, Jiawei Han     
-_KDD 2018_    
-\[[code](https://github.com/franticnerd/taxogen)\]
-
-
-[ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation](papers/aaai18_zhou.pdf)    
-Chang Zhou, Jinze Bai, Junshuai Song, Xiaofei Liu, Zhengchao Zhao, **Xiusi Chen**, Jun Gao    
-_AAAI 2018_    
-\[[code](https://github.com/jinze1994/ATRank)\]
--->
-
-<!--
-## Patent
-[_Knowledge graph and alignment with uncertainty embedding_](https://patentimages.storage.googleapis.com/bb/ae/b3/bdfd4a1c6a8528/US20210103706A1.pdf)    
-Wenchao Yu, Bo Zong, Wei Cheng, Haifeng Chen, **Xiusi Chen**    
-_US Patent App. 17/060,850_
--->
 
 ## Academic Service
 **Workshop Organizer**    
@@ -301,7 +187,7 @@ I was born and raised in Changsha, Hunan, China.
 
 <!-- 
 ## Links
-[❤️ My Brilliant Fiancé](https://sites.google.com/site/ruihanwu14/)    
+[❤️](https://sites.google.com/site/ruihanwu14/)    
 [Google Scholar](https://scholar.google.com/citations?user=JqGAil4AAAAJ)    
 [Github](https://github.com/xiusic)    
 [DBLP](https://dblp.org/pid/210/1049)    
