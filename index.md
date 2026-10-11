@@ -131,6 +131,7 @@ _ACL 2025_
 Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, **Xiusi Chen**, Wei Cheng, Yisong Yue, Ziniu Hu    
 _ICLR 2025_    
 \[[code](https://github.com/jonathanmli/Avalon-LLM)\]\[[project page](https://llm-strategist.github.io/)\]    
+<span style="color:#ad1457; font-weight:bold;">160+ stars on Github</span>   
 Covered by <span style="color:#ad1457; font-weight:bold;">[State of AI Report 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/edit#slide=id.g2d35a16f27e_0_24)</span>, published by <span style="color:#ad1457; font-weight:bold;">[Air Street Capital](https://www.stateof.ai/2024)</span>.    
 
 [Chain-of-Factors Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483)    
@@ -152,7 +153,7 @@ Yupeng Hou\*, Jiacheng Li\*, Zhankui He, An Yan, **Xiusi Chen**, Julian McAuley
 _ACL 2026_    
 \[[code](https://github.com/hyp1231/AmazonReviews2023)\]\[[website](https://amazon-reviews-2023.github.io/)\]\[[huggingface](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)\]    
 <span style="color:#ad1457; font-weight:bold;">300+ stars on Github</span>    
-<span style="color:#ad1457; font-weight:bold;">1.2M+ downloads on HuggingFace</span>
+<span style="color:#ad1457; font-weight:bold;">1.3M+ downloads on HuggingFace</span>
 
 ## Academic Service
 **Workshop Organizer**    
